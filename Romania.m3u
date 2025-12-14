@@ -573,8 +573,6 @@ http://89.238.227.6:8036/;
 https://stream4.srr.ro:8443/romania-muzical
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Colinde
 https://asculta.radioromanian.net/colinde
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Dance
-https://asculta.radioromanian.net/dance
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Hip-Hop
 https://asculta.radioromanian.net/hiphop
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Manele
