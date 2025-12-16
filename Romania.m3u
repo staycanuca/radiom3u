@@ -269,8 +269,6 @@ https://asculta.radiorfi.ro/live.aac
 https://streamer.radio.co/sb94ce6fe2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-oradea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE International
 http://162.244.80.34:9648/;stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-oradea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Muzică
-http://162.244.80.32:9470/;stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-oradea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Oradea
 http://162.244.80.32:6700/;stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-oradea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Predici
@@ -399,8 +397,6 @@ https://radioclasic.ro:8806/stream
 https://radioclasic.ro:8816/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic FM 90.9
 https://radioclasic.ro:8007/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiocolor.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Color 90.3 FM
-https://radio.sonicpanel.ro/8172/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioconstanta.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Constanța
 https://stream4.srr.ro:8443/radio-constanta-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/coresibrasov.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Coresi
@@ -447,6 +443,8 @@ https://asculta.radiofiladelfia.ro:7000/filadelfia_64.aac
 https://asculta.radiofiladelfia.ro/filadelfia_64.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofiladelfia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Filadelfia Special
 https://asculta.radiofiladelfia.ro:7000/special_64.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-flacararusaliilor.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Flacăra Rusaliilor
+https://stream.radio-flacararusaliilor.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofloratm.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Flora TM
 https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705149913
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofolclor.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Folclor
@@ -695,8 +693,6 @@ https://c28.radioboss.fm:18175/stream
 https://live1.radiovip.ro/8969/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvect.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 104.4 FM
 https://stream.rvect.ro/rvect.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvecluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 88.3 FM
-https://s23.myradiostream.com/:18366/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesibiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 89.4 FM
 https://stream.rvesibiu.ro/rvesb.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-timisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 92.2 FM
@@ -707,6 +703,12 @@ https://stream.rvesv.ro/rvesv.mp3
 https://stream.rve-brasov.ro/rvebv.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvehunedoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 98.0 FM
 https://stream.rvehunedoara.ro/rvehd.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvecluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Cluj
+https://cj.rve.ro/rvecj.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Soveja
+https://so.rve.ro/rveso.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Targoviste
+https://tg.rve.ro/rvetg.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiowish.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Wish
 https://s101.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioxnet.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio X Net Manele
