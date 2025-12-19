@@ -37,8 +37,6 @@ https://edge126.rcs-rds.ro/profm/chillfm.mp3
 https://mscp5.gazduireradio.ro:1270/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/city-radio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",City Rádió
 https://mscp1.gazduireradio.ro/cityradio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.copahavana.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Copahavana
-https://radio.copahavana.ro:8443/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/crossone.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
@@ -299,6 +297,8 @@ http://86.123.70.144:8000/sample128
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioaccent.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Accent 96.2 FM
+https://s2.free-shoutcast.com/stream/18076
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
@@ -573,6 +573,8 @@ https://stream4.srr.ro:8443/romania-muzical
 https://asculta.radioromanian.net/colinde
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Dance
 https://asculta.radioromanian.net/dance
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Disco
+https://asculta.radioromanian.net/disco
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Hip-Hop
 https://asculta.radioromanian.net/hiphop
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Manele
@@ -815,8 +817,6 @@ https://szepvizfm.ro:8000/;
 https://stream.zeno.fm/tdkq0s12sxhvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
-https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urban FM 92.7
 https://urbanfm.ro:8777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanup.tv?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UrbanUP Radio
