@@ -69,8 +69,6 @@ https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Electro
 https://azura.ebsmedia.ro/radio/8040/electro320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Fresco
-https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Jazz
 https://azura.ebsmedia.ro/radio/8030/jazz320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
@@ -545,8 +543,6 @@ https://livessl.radiopopular.ro:7777/live
 https://live.radiopromanele.com/8000/stream;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopromix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Pro Mix
 https://ssl.omegahost.ro:8102/;stream.nsv
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopromusic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Pro Music 90s
-https://stream.adradio.ro/8414
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioprob.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Pro-B
 https://live.radioprob.ro:8888/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiorfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio RFM 103.1
@@ -691,16 +687,14 @@ https://c28.radioboss.fm:18175/stream
 https://live1.radiovip.ro/8969/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvect.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 104.4 FM
 https://stream.rvect.ro/rvect.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesibiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 89.4 FM
+https://stream.rvesibiu.ro/rvesb.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-timisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 92.2 FM
 https://tm.rve.ro/rvetm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 94.2 FM
 https://stream.rvesv.ro/rvesv.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-brasov.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 94.6 FM
 https://stream.rve-brasov.ro/rvebv.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvehunedoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 98.0 FM
-https://stream.rvehunedoara.ro/rvehd.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvecluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Cluj
-https://cj.rve.ro/rvecj.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Soveja
 https://so.rve.ro/rveso.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei Targoviste
@@ -789,6 +783,8 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
