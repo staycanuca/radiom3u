@@ -69,6 +69,8 @@ https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Electro
 https://azura.ebsmedia.ro/radio/8040/electro320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Fresco
+https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Jazz
 https://azura.ebsmedia.ro/radio/8030/jazz320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
@@ -77,8 +79,6 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -429,12 +429,6 @@ http://89.137.76.149:8000/;
 http://zuicast.digitalag.ro:9420/fainsisimplu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofanfmro.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio FanFM-RO
 http://radiofanfmro.zapto.org:8585/live/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofiladelfia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Filadelfia
-https://asculta.radiofiladelfia.ro:7000/filadelfia_64.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofiladelfia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Filadelfia Antiohia
-https://asculta.radiofiladelfia.ro/filadelfia_64.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofiladelfia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Filadelfia Special
-https://asculta.radiofiladelfia.ro:7000/special_64.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofloratm.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Flora TM
 https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705149913
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiofolclor.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Folclor
