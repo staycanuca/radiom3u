@@ -127,8 +127,6 @@ http://89.39.189.52:8000/stream/;
 https://live.gofm.ro:2000/stream/goFMro
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogoldfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Gold FM 96.9
 https://live.radiogoldfm.ro:8443/WP.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/halfisenough.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Half Is Enough
-https://halfisen.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/hangos.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Hangos Rádió
 https://stream.zeno.fm/zme1m34uzv8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioimpuls.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Impuls Radio
@@ -297,6 +295,8 @@ http://86.123.70.144:8000/sample128
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioaccent.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Accent 96.2 FM
+https://s2.free-shoutcast.com/stream/18076
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
