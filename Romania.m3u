@@ -323,6 +323,8 @@ https://stream.clever-host.ro/8014/stream
 https://s3.radio.co/s6c0a773ad/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - 100% Românesc
 https://radioclasic.ro:8036/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - 60
+https://www.radioclasic.ro:8071/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - 80
 https://www.radioclasic.ro:8050/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - 90
