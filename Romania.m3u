@@ -11,8 +11,6 @@ http://86.125.106.34:8000/live
 http://radio2.tirek.hu:8000/agnusradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/alpimur-radio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alpimur Radio
 https://ssl.asculta.live/8444/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/altfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alt FM
-https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/autobazaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Autobaza Radio
 https://s3.myradiostream.com/:7022/listen.m4a/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
@@ -79,8 +77,6 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -127,6 +123,8 @@ http://89.39.189.52:8000/stream/;
 https://live.gofm.ro:2000/stream/goFMro
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogoldfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Gold FM 96.9
 https://live.radiogoldfm.ro:8443/WP.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/halfisenough.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Half Is Enough
+https://halfisen.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/hangos.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Hangos Rádió
 https://stream.zeno.fm/zme1m34uzv8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioimpuls.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Impuls Radio
