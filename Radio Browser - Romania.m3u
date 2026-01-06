@@ -41,10 +41,10 @@ http://radio1manele.no-ip.org:8000/;
 http://live.guerrillaradio.ro:8010/guerrilla.aac
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://w7.pngwing.com/pngs/843/39/png-transparent-cluj-napoca-radio-impuls-paprika-radio-fm-broadcasting-radio-electronics-text-logo.png",Radio Impuls Romania - Bucuresti
 https://live.radio-impuls.ro/stream
-#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://img.logo.dev/magicfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Magic FM Romania
-https://live.magicfm.ro/magicfm.aacp
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.digi24.ro/static/theme-repo/apple-touch-icon.png",Digi24FM
 https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
+#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://img.logo.dev/magicfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Magic FM Romania
+https://live.magicfm.ro/magicfm.aacp
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="http://www.radiogoldfm.ro/favicon.ico",GoldFM
 http://80.86.106.110:8002/
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://brokenbeats.net/favicon.ico",Atmospheric dnb s0urce - Bucharest
@@ -383,12 +383,12 @@ https://live7digi.antenaplay.ro/radiozu/radiozu-48000.m3u8
 https://stream-177.zeno.fm/nqjp3rems2rvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJucWpwM3JlbXMycnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoia2RLRm5ldEhUNnlyaGhqQWJPMVRxZyIsImlhdCI6MTc2NzUyNDMzMSwiZXhwIjoxNzY3NTI0MzkxfQ.TTZTznr4h9oCyiHdfBDp9mjRHDU6hl7tK1joTTL20qo
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://waveradio.ro/wp-content/uploads/2024/12/logo-70.png.webp",Wave Radio - Constanta
 https://s2.ssl-stream.com/listen/wave_radio/radio.mp3
+#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://cdn.aripisprecer.ro/upd/2020/11/cropped-logo-aripi-bg-rosu-logo-alb-192x192.png",Aripi Spre Cer Instrumental
+https://instrumental.aac.aripisprecer.ro/radio.mp3;
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="http://darkedge.ro/favicon-32x32.png",Dark Edge Radio - Bucharest
 http://stream.darkedge.ro:8000/
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.radiogaga.ro/wp-content/themes/sounder-child/images/GaGa_Logo_100_MAGYAR.jpg",Rádió GaGa 100% Magyar
 https://a2.asurahosting.com:6880/radio.mp3?1741346830
-#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://cdn.aripisprecer.ro/upd/2020/11/cropped-logo-aripi-bg-rosu-logo-alb-192x192.png",Aripi Spre Cer Instrumental
-https://instrumental.aac.aripisprecer.ro/radio.mp3;
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_180,h_180/https://radiogmusic.com/wp-content/uploads/2020/04/cropped-fav-icon-180x180.png",Radio GMusic Soft - Bucuresti
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.radio-terra.ro/img/logos/terra-navbar.png",Radio Terra
@@ -689,14 +689,14 @@ https://stream2.radiotransilvania.ro/Nagyvarad
 http://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://radioblaj.ro/wp-content/uploads/2022/02/logo-transparent-2.png",Blaj Radio
 https://ssl.asculta.live:8016/
+#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://ebsradio.ro/stream/img/stream-alternative.png",EBS | Alternative
+https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://img.logo.dev/radiofolclormuntenia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Folclor Muntenia
 https://live.radiofolclormuntenia.ro:8008/stream
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.radionoise.ro/wp-content/uploads/2023/05/radionoiseparty.png",Radio Noise Party
 https://partylive.radionoise.ro:9160/
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://scontent.fclj2-1.fna.fbcdn.net/v/t39.30808-6/462704691_999686372170606_3100489220787181229_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGnOI5JB_JULgykU1C-8L2dUhpv9UijQQZSGm_1SKNBBoUlhr6XfS7-Ibo6bYZmShdonUsaTs-3V7kTkbx06F8f&_nc_ohc=4LkNWlD8fssQ7kNvgGru4dF&_nc_ht=scontent.fclj2-1.fna&_nc_gid=AWUVmp3kYX7tU7PemAdTxfE&oh=00_AYDV90D1up4YNZk-jGBcS0oFCAV1s-b85yCKulyCr_x17Q&oe=670CD2D8",Terra FM
 https://stream-177.zeno.fm/ys8npw9ccxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5czhucHc5Y2N4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib2VfQU1MMVdReUt6S0NzbTFwMG1sQSIsImlhdCI6MTc2NzUxNjcxNSwiZXhwIjoxNzY3NTE2Nzc1fQ.LsVxF9gTmOe7HSdHybopArCgcpDZBAopopG_PhQFS4Y
-#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://ebsradio.ro/stream/img/stream-alternative.png",EBS | Alternative
-https://azura.ebsmedia.ro/listen/alternative/alternative128.mp3
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.rri.ro/wp-content/themes/rri/images/custom/logo-international1.svg",ROMÂNIA   Internațional 1 - Bucuresti
 http://stream2.srr.ro:8052/
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://ui-avatars.com/api/?name=Radio+Popular+(Arhiva)+(1)&background=random&color=fff&size=128",Radio Popular (Arhiva) (1)
@@ -787,6 +787,8 @@ http://live.radionoise.ro:9100/;
 https://live.superfm.ro/stream.mp3?time=1697692801
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://www.radiogaga.ro/wp-content/themes/sounder-child/images/GaGa_Logo_DANCE.jpg",Rádió GaGa Dance
 https://a2.asurahosting.com:7030/radio.mp3?1741449982
+#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://ebsradio.ro/stream/img/stream-music.png",EBS | Music
+https://azura.ebsmedia.ro/listen/music/music128.mp3
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://img.logo.dev/radiodobrogea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Dobrogea - Constanta
 http://stream.arhivaradiodobrogea.ro:7000/dobrogea
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Gmusic Retro - Bucuresti
@@ -797,8 +799,6 @@ http://ssl.radios.show:8026/;
 https://radio.radiowanda.ro/8192/stream
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://superfm.ro/static/images/logo_red.png",SuperFM Brasov 93.8 FM
 https://live.superfm.ro/stream.mp3?nocache=0.19023860954617056
-#EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://ebsradio.ro/stream/img/stream-music.png",EBS | Music
-https://azura.ebsmedia.ro/listen/music/music128.mp3
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="null",Radio Dobrogea
 http://stream.arhivaradiodobrogea.ro:7000/dobrogea.m3u
 #EXTINF:-1 group-title="Romania" radio="true" tvg-logo="https://replicaradio.com/images/assets/Replica-Radio-Live.jpg",Replica Radio
