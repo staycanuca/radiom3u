@@ -59,6 +59,8 @@ https://radio.duxradio.ro/8002/stream
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
+https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
 https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
@@ -293,8 +295,6 @@ http://86.123.70.144:8000/sample128
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioaccent.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Accent 96.2 FM
-https://s2.free-shoutcast.com/stream/18076
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
@@ -809,6 +809,8 @@ https://szepvizfm.ro:8000/;
 https://stream.zeno.fm/tdkq0s12sxhvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
+https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urban FM 92.7
 https://urbanfm.ro:8777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanup.tv?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UrbanUP Radio
