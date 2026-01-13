@@ -67,6 +67,8 @@ https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Dolce Vita
 https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Electro
+https://azura.ebsmedia.ro/radio/8040/electro320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Fresco
 https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
@@ -75,6 +77,8 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -809,8 +813,6 @@ https://szepvizfm.ro:8000/;
 https://stream.zeno.fm/tdkq0s12sxhvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
-https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urban FM 92.7
 https://urbanfm.ro:8777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanup.tv?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UrbanUP Radio
