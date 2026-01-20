@@ -283,8 +283,6 @@ https://s9.yesstreaming.net:7014/stream
 https://ssl.omegahost.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-seven.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 7 Romania
 http://80.86.106.32:8000/radio7.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio80.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 80
-https://live.radio80.ro/s80
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio9fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 9 FM 106.6
 https://lb01.bpstream.com:8600/9fm.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/90hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 90 Hit
@@ -519,6 +517,8 @@ https://rocklive.radionoise.ro/9130/stream
 https://live.radionoise.ro:9100/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radionova22.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Nova22
 https://s2.myradiostream.com:4520/listen.m4a
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/abhedayoga.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio OM Bun
+https://www.radioking.com/play/radio-om-bun1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
 http://86.123.160.19:8000/;;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiooldies.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Oldies Romania
@@ -621,8 +621,6 @@ https://streams.radio.co/s78f983952/listen
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotaraf.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Taraf Romania
 http://asculta.radiotaraf.com:7100/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Colinde
-https://colinde.radiotequila.ro:8989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Muzica Romaneasca
