@@ -223,8 +223,6 @@ https://stream4.srr.ro:8443/radio-tgmures-mag
 http://metronom-fm.ro:8000/stream.ogg
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/moodonmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mood On Music #Deep
 https://ec2.yesstreaming.net:1810/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musceltv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Muscel FM 94.1
-http://188.27.135.199:8000/muscelfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mariaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mária Rádió Erdély
 https://stream.mariaradio.ro/MRE
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/napocafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Napoca FM 102.2
@@ -275,6 +273,8 @@ http://162.244.80.32:9470/;stream.mp3
 http://162.244.80.32:6700/;stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-oradea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Predici
 http://162.244.80.32:9468/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesibiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Sibiu
+https://stream.rvesibiu.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-zalau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Zalău
 https://stream.rve-zalau.ro/rvezalau.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVESV
