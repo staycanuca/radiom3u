@@ -59,8 +59,6 @@ https://radio.duxradio.ro/8002/stream
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
-https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
 https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
