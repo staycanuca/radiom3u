@@ -291,8 +291,6 @@ https://ssl.omegahost.ro/8066/stream
 http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
-http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
@@ -621,8 +619,6 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Muzica Romaneasca
-https://romaneasca.radiotequila.ro:8989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://ssl.omegahost.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
@@ -781,6 +777,8 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
@@ -805,6 +803,8 @@ https://szepvizfm.ro:8000/;
 https://stream.zeno.fm/tdkq0s12sxhvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
+https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urban FM 92.7
 https://urbanfm.ro:8777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanup.tv?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UrbanUP Radio
