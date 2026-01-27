@@ -257,6 +257,8 @@ https://stream2.radiotransilvania.ro/Nagyvarad
 http://liderfm.go.ro:8000/stream/1/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/profm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ProFM
 https://edge126.rcs-rds.ro/profm/profm.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/profiradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Profi Radio 94.0 FM
+http://93.115.174.139:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/pulsfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Puls FM 94.7
 http://mxii.go.ro:8090/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rfi.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RFI România
@@ -291,6 +293,8 @@ https://ssl.omegahost.ro/8066/stream
 http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
+http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
@@ -659,6 +663,8 @@ https://live.radiotrinitas.ro:8003/;stream.nsv
 https://live.aftech.ro/listen/radio_turda/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotargujiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Târgu Jiu 97.8 FM
 https://media2.streambrothers.com:8248/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.usv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio USV
+http://live2.usv.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounique.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unique
 https://listen.radiounique.ro/listen/radio_unique_romania/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounusm.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unu
