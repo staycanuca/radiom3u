@@ -77,6 +77,8 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -342,7 +344,7 @@ https://radioclasic.ro:8556/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - Christmas
 https://radioclasic.ro:8826/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - Country
-https://radioclasic.ro:8586/stream
+https://radioclasic.ro:8586/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - Crossover
 https://radioclasic.ro:8696/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/clasicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Clasic - Folk
@@ -445,8 +447,6 @@ https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
 https://s10.webradio-hosting.com/proxy/rgmdance/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Planet Funk
 https://play.webradio-hosting.com:8036/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Relax Garden
-https://play.webradio-hosting.com:8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Retro
 https://s9.webradio-hosting.com/proxy/rgmretro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Rock
