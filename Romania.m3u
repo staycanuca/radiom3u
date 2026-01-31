@@ -27,6 +27,8 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 http://stream2.srr.ro:8210/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bravia.fm?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bravia FM
 https://s5.radio.co/s0a66e1ff2/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
+http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Manele
 https://ssl.omegahost.ro/8020/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/chillfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Chill FM
@@ -77,8 +79,6 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -221,6 +221,8 @@ https://stream4.srr.ro:8443/radio-tgmures-mag
 http://metronom-fm.ro:8000/stream.ogg
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/moodonmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mood On Music #Deep
 https://ec2.yesstreaming.net:1810/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musceltv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Muscel FM 94.1
+http://188.27.135.199:8000/muscelfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mariaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mária Rádió Erdély
 https://stream.mariaradio.ro/MRE
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/napocafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Napoca FM 102.2
