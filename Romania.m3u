@@ -59,6 +59,8 @@ https://radio.duxradio.ro/8002/stream
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
+https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
 https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
@@ -471,8 +473,6 @@ https://live.radiohitfm.net/8989/stream
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohot.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hot Style
-https://live.radiohot.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohybraila.eu5.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hy Braila
 https://asculta.ascultatare.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioiubire.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Iubire
