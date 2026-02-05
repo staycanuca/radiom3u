@@ -473,6 +473,8 @@ https://live.radiohitfm.net/8989/stream
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohot.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hot Style
+https://ssl.servereradio.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohybraila.eu5.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hy Braila
 https://asculta.ascultatare.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioiubire.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Iubire
@@ -635,14 +637,10 @@ https://e20.yesstreaming.net:7410/stream
 https://streaming12.elitecomunicacion.es:8096/stream3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/player.radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Timișoara AM 630
 http://89.238.227.6:8350/%7CRadio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/player.radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Timișoara FM 105.9
-http://89.238.227.6:8354/%7CRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotop.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Top 104
 https://live.radiotop.ro/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiototalromania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Total Romania
 http://91.220.63.121:8000/listen.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotraditional.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Traditional Manele
-https://radio.ascultatare.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 106.1 FM
 https://stream2.radiotransilvania.ro/BaiaMare
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 94.1 FM
@@ -809,6 +807,8 @@ https://live.gofm.ro:2000/stream/SWEET/stream.mp3
 https://szepvizfm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/terrafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Terra FM
 https://stream.zeno.fm/tdkq0s12sxhvv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Timisoara FM 105.9
+http://89.238.227.6:8354/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
