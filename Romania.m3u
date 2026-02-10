@@ -291,12 +291,12 @@ https://lb01.bpstream.com:8600/9fm.mp3/;
 https://live.90hit.ro:8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/atentat.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio A-Tentat
 https://ssl.omegahost.ro/8066/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
-http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioaccent.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Accent 96.2 FM
+https://s2.free-shoutcast.com/stream/18076
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotimisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad FM 102.9
@@ -499,6 +499,8 @@ https://live.radiomegahit.eu:8080/stream/;
 https://popular.radiomegahit.eu:9000/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-Hit Chill
 https://chill.radiomegahit.eu:8004/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mixcraiova.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mix Craiova
+http://live.mixcraiova.ro:8241/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musictown.crazydesign.biz?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio MusicTown
 http://musictown.crazydesign.biz:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomynele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mynele Manele
