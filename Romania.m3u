@@ -69,8 +69,6 @@ https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
 https://azura.ebsmedia.ro/radio/8040/electro320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Fresco
 https://azura.ebsmedia.ro/radio/8120/fresco320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Jazz
-https://azura.ebsmedia.ro/radio/8030/jazz320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
 https://azura.ebsmedia.ro/radio/8060/local320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Lounge
@@ -103,6 +101,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -471,8 +471,6 @@ https://live.radiohitfm.net/8989/stream
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohybraila.eu5.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hy Braila
-https://asculta.ascultatare.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioiubire.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Iubire
 http://89.39.189.24:7070/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.kptv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio KPTV
