@@ -105,8 +105,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -487,6 +485,10 @@ https://de1.streamingpulse.com/ssl/KPTV
 https://www.radioking.com/play/radiokibut
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kiss+Mangalia+FM+(Pyranda)&background=random&color=fff&size=128",Radio Kiss Mangalia FM (Pyranda)
 http://live.adradio.ro:8894/128/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Oldies
+http://oldies.radioliberty.ro:7790/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Populara
+http://populara.radioliberty.ro:7780/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomplusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio M Plus 95.7
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomaria.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Maria România
@@ -833,6 +835,8 @@ https://live.westcityradio.ro:8443/aac
 https://sonic2-rbx.cloud-center.ro/8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Yager+Chalet+Radio&background=random&color=fff&size=128",Yager Chalet Radio
 https://yagerchaletradio.radioca.st/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/zcj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ZC Radio
+https://sonicssl.namehost.ro/8020/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/eteatru.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",eTeatru
 http://stream2.srr.ro:8078/eteatru.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosomes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",radio SOMEȘ
