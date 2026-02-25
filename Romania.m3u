@@ -61,8 +61,6 @@ https://azura.ebsmedia.ro/radio/8010/live128.mp3
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
-https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
 https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Dolce Vita
@@ -217,8 +215,6 @@ https://live.gofm.ro:2000/stream/MARLENERADIO
 https://stream4.srr.ro:8443/radio-tgmures-mag
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/metronom-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Metronom FM
 http://metronom-fm.ro:8000/stream.ogg
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mixmusicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MixMusic Radio România
-https://sonicssl.namehost.ro/8890/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/moodonmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mood On Music #Deep
 https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musceltv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Muscel FM 94.1
@@ -499,6 +495,8 @@ http://live.adradio.ro:8894/128/;
 http://asculta.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Manele
 http://manele.radioliberty.ro:7770/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Mixt
+http://mixt.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Muzica Romaneasca
 http://romaneasca.radioliberty.ro:7060/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Oldies
@@ -521,6 +519,8 @@ https://live.radiomegahit.eu:8080/stream/;
 https://popular.radiomegahit.eu:9000/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-Hit Chill
 https://chill.radiomegahit.eu:8004/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mixcraiova.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mix Craiova
+http://live.mixcraiova.ro:8241/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musictown.crazydesign.biz?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio MusicTown
 http://musictown.crazydesign.biz:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomynele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mynele Manele
