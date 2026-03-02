@@ -457,6 +457,8 @@ https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
 https://s10.webradio-hosting.com/proxy/rgmdance/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Planet Funk
 https://play.webradio-hosting.com:8036/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Relax Garden
+https://play.webradio-hosting.com:8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Retro
 https://s9.webradio-hosting.com/proxy/rgmretro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Rock
@@ -803,6 +805,8 @@ https://web.smartradio.ro:8443/smartsunsetbulevard
 https://web.smartradio.ro:8443/smartfusion
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smilefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smile FM
 https://sonicssl.namehost.ro/8040/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
