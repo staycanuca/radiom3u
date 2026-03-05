@@ -87,8 +87,6 @@ https://azura.ebsmedia.ro/radio/8000/music320.aac
 https://azura.ebsmedia.ro/listen/nostalgie/nostalgie128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nouvelle Vague
 https://azura.ebsmedia.ro/radio/8130/nouvelle128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Romanian Folk
-https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Romanian Gold
 https://azura.ebsmedia.ro/radio/8140/romaniangold320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Xmas
@@ -105,6 +103,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -601,6 +601,8 @@ https://radio-romantic.ro/stream/?index.php.mp3
 https://radio-romantic.ro/meniu/manele.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Populară
 https://radio-romantic.ro/meniu/populara.php
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Teatru Radiofonic
+https://radio-romantic.ro/meniu/teatru.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Unda Veselă
 https://radio-romantic.ro/meniu/umor.php/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio3net.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio România 3 Net
@@ -641,6 +643,8 @@ https://streams.radio.co/s78f983952/listen
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotaraf.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Taraf Romania
 http://asculta.radiotaraf.com:7100/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
+https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
