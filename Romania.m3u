@@ -27,6 +27,8 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Etno
+https://radio.sonicpanel.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Manele
 https://ssl.omegahost.ro/8020/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/chillfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Chill FM
@@ -55,8 +57,6 @@ http://dreamfm.dtech.ro:9220/dreamfm
 https://radio.duxradio.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS 90.4 FM
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
-https://azura.ebsmedia.ro/radio/8020/alternative320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
@@ -95,14 +95,14 @@ https://azura.ebsmedia.ro/radio/8190/xmas320.aac
 https://stream.zeno.fm/ehbuv5erws8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/erdelyfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Erdely FM
 https://efm.radioca.st/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/erdelyimagyarradio.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Erdélyi Magyar Rádió
+https://adas.erdelyimagyarradio.eu:8443/emr
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/europafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Europa FM
 https://astreaming.edi.ro:8443/EuropaFM_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/evenimentfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Eveniment FM 103.2
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -549,6 +549,8 @@ https://sonic2-rbx.cloud-center.ro/8070/stream
 https://cast.orionfm.ro/listen/orion/public.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopetrecaretzu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Petrecăretzu
 http://live.radiopetrecaretzu.ro:8383/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopoema.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Poema
+https://ssl.radios.show/8142/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopopular.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Popular România
 https://livessl.radiopopular.ro:7777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopromanele.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Pro Manele
@@ -631,10 +633,6 @@ https://ssl.asculta.live:8310/STAR
 http://media.gds.ro:8500/128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotrib.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio TRIB
 https://streams.radio.co/s78f983952/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotaraf.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Taraf Manele
-http://asculta.radiotaraf.ro:7100/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotaraf.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Taraf Romania
-http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
@@ -827,6 +825,8 @@ https://stream.zeno.fm/tdkq0s12sxhvv
 http://89.238.227.6:8354/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.ubbcluj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UBB Radio
 http://stream.radio.ubbcluj.ro:8000/ubb.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/upitmedia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Upit Radio
+https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urban FM 92.7
 https://urbanfm.ro:8777/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbanup.tv?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",UrbanUP Radio
