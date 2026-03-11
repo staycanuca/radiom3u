@@ -39,6 +39,8 @@ https://edge126.rcs-rds.ro/profm/chillfm.mp3
 https://mscp5.gazduireradio.ro:1270/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/city-radio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",City Rádió
 https://mscp1.gazduireradio.ro/cityradio
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioclubmix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ClubMix Radio
+https://live.mikeriverra.com:9999/320mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/crossone.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
@@ -485,6 +487,8 @@ https://live.radiohitfm.net/8989/stream
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohot.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hot Style
+https://live.radiohot.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohybraila.eu5.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hy Braila
 http://asculta.ascultatare.ro:8034/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioiubire.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Iubire
@@ -649,6 +653,8 @@ http://asculta.radiotaraf.com:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://ssl.omegahost.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
@@ -823,6 +829,8 @@ https://online.webcastradio.ro/star
 http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/stilfmradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Stil FM Radio
 http://5.2.233.147:8000/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosuperfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Super FM 88.2
+https://ssl.asculta.live:8308/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/superfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Super FM 93.8
 https://live.superfm.ro/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/supersonicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Supersonic Radio
