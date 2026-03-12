@@ -51,8 +51,6 @@ https://edge126.rcs-rds.ro/profm/dancefm.mp3
 https://stream.darkedge.ro:8002/stream/4/
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/digi24.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Digi 24 FM 103.8
 https://edge126.rcs-rds.ro/digifm/digi24fm.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/digifm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Digi FM 97.9
-https://edge76.rcs-rds.ro/digifm/digifm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/discomix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Disco Mix
 https://play.discomix.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/dreamfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dream FM 92.2
@@ -105,8 +103,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
-https://ssl.servereradio.ro/8054/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -525,6 +521,8 @@ https://mscp2.gazduireradio.ro:8080/;
 http://mediasfm.eushells.ro:8082/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-HiT
 https://live.radiomegahit.eu:8080/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-HiT Lounge
+https://lounge.radiomegahit.eu:8014/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-HiT Popular
 https://popular.radiomegahit.eu:9000/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-Hit Chill
@@ -639,8 +637,8 @@ http://89.238.227.6:8390/;
 http://89.33.243.3:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostabilpitesti.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Stabil Pitesti
 https://live.radiostabilpitesti.eu/9986/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostar.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Star 90.2
-https://ssl.asculta.live:8310/STAR
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostar.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Star 90.2 FM
+https://ssl.asculta.live:8310/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosud.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Sud FM 97.4
 http://media.gds.ro:8500/128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotrib.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio TRIB
@@ -656,7 +654,7 @@ http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
 https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
-https://ssl.omegahost.ro/7000/stream
+https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
 https://stream.radio-terra.ro/terra.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioterranova.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terranova
