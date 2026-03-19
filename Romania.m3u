@@ -509,8 +509,6 @@ http://live.adradio.ro:8894/128/;
 http://asculta.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Manele
 http://manele.radioliberty.ro:7770/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Mixt
-http://mixt.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Muzica Romaneasca
 http://romaneasca.radioliberty.ro:7060/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Oldies
@@ -603,6 +601,8 @@ https://asculta.radioromanian.net/dance
 https://asculta.radioromanian.net/disco
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Hip-Hop
 https://asculta.radioromanian.net/hiphop
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Kids
+https://asculta.radioromanian.net/kids
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Manele
 https://asculta.radioromanian.net/manele
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioromanian.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romanian Popular
@@ -615,6 +615,8 @@ https://radio-romantic.ro/stream/?index.php.mp3
 https://radio-romantic.ro/meniu/manele.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Populară
 https://radio-romantic.ro/meniu/populara.php
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Teatru Radiofonic
+https://radio-romantic.ro/meniu/teatru.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Unda Veselă
 https://radio-romantic.ro/meniu/umor.php/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio3net.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio România 3 Net
@@ -715,6 +717,8 @@ http://89.238.227.6:8332/;stream/1
 https://c28.radioboss.fm:18175/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiovip.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vip FM
 https://live1.radiovip.ro/8969/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvect.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 104.4 FM
+https://stream.rvect.ro/rvect.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesibiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 89.4 FM
 https://stream.rvesibiu.ro/rvesb.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-timisoara.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Vocea Evangheliei 92.2 FM
@@ -779,6 +783,8 @@ http://stream2.srr.ro:8032/;
 http://89.238.227.6:8344/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/supradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SUP Radio
 https://sup.umfst.ro:8000/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/sepsiradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sepsi Rádió 98.5 FM
+https://stream.sepsiradio.ro:8001/SepsiRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bluz.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Shuffle FM
 http://bluz.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosky.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sky FM 101.1
