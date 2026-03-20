@@ -37,12 +37,8 @@ https://ssl.omegahost.ro/8020/stream
 https://edge126.rcs-rds.ro/profm/chillfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/city-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",City FM 98.3
 https://mscp5.gazduireradio.ro:1270/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/city-radio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",City Rádió
-https://mscp1.gazduireradio.ro/cityradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioclubmix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ClubMix Radio
 https://live.mikeriverra.com:9999/320mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/coolfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Cool FM International
-https://live.aftech.ro/listen/coolfm.international/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/crossone.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
@@ -523,8 +519,6 @@ http://asculta.radiolipova.ro:1717/;
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomaria.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Maria România
 https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomastersm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Master
-https://mscp2.gazduireradio.ro:8080/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomedias.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Medias 725
 http://mediasfm.eushells.ro:8082/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-HiT
@@ -661,6 +655,8 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
