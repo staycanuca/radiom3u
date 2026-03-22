@@ -523,6 +523,8 @@ http://asculta.radiolipova.ro:1717/;
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomaria.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Maria România
 https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomastersm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Master
+https://mscp2.gazduireradio.ro:8080/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomedias.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Medias 725
 http://mediasfm.eushells.ro:8082/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomegahit.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Mega-HiT
