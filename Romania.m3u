@@ -47,8 +47,6 @@ https://stream4.srr.ro:8443/radio-oltenia
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
 https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/dancefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dance FM
-https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/darkedge.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dark Edge Radio
 https://stream.darkedge.ro:8002/stream/4/
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/digi24.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Digi 24 FM 103.8
@@ -67,6 +65,8 @@ https://azura.ebsmedia.ro/radio/8010/live128.mp3
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
+https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
 https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Dolce Vita
@@ -495,8 +495,6 @@ https://www.radioking.com/play/radiokibut
 http://live.adradio.ro:8894/128/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Dance
 http://asculta.radioliberty.ro:1989/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Oldies
-http://oldies.radioliberty.ro:7790/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiolipova.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Lipova
 http://asculta.radiolipova.ro:1717/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomplusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio M Plus 95.7
@@ -637,8 +635,6 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
