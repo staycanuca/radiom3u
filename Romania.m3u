@@ -47,6 +47,8 @@ https://stream4.srr.ro:8443/radio-oltenia
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
 https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/dancefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dance FM
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/darkedge.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dark Edge Radio
 https://stream.darkedge.ro:8002/stream/4/
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/digi24.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Digi 24 FM 103.8
@@ -299,8 +301,6 @@ http://86.123.70.144:8000/sample128
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioaccent.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Accent 96.2 FM
-https://radioaccent.ro/streams;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/arad1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad 99,1 FM
@@ -757,6 +757,8 @@ http://stream2.srr.ro:8032/;
 http://89.238.227.6:8344/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/supradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SUP Radio
 https://sup.umfst.ro:8000/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/sepsiradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sepsi Rádió 98.5 FM
+https://stream.sepsiradio.ro:8001/SepsiRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bluz.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Shuffle FM
 http://bluz.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosky.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sky FM 101.1
