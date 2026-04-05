@@ -15,8 +15,6 @@ https://ssl.asculta.live/8444/stream
 https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/autobazaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Autobaza Radio
 https://s3.myradiostream.com/:7022/listen.m4a/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
-https://icecast.banatfm.ro:8443/banatfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/big-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bistritafmradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bistrita FM 92.6
@@ -111,8 +109,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
-https://ssl.servereradio.ro/8054/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
 https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
@@ -245,8 +241,6 @@ https://asculta.nationalfm.ro:9102/nfm2
 https://stream2.rcast.net/64531
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/nextradio.live?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Next Radio
 https://stream.nextradio.live/listen/nextradio/NextHD
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/nicecream.fm?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Nicecream Green
-https://play.nicecream.fm/radio/8010/green.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/nostalgiaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Nostalgia Radio 90.2 FM
 https://live.radionostalgia.ro:8443/nostalgia.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/onefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",One FM Romania
@@ -659,8 +653,6 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
