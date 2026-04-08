@@ -15,6 +15,8 @@ https://ssl.asculta.live/8444/stream
 https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/autobazaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Autobaza Radio
 https://s3.myradiostream.com/:7022/listen.m4a/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
+https://icecast.banatfm.ro:8443/banatfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/big-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bistritafmradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bistrita FM 92.6
@@ -225,8 +227,6 @@ https://stream4.srr.ro:8443/radio-tgmures-mag
 http://metronom-fm.ro:8000/stream.ogg
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mixmusicradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MixMusic Radio România
 https://sonicssl.namehost.ro/8890/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/moodonmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mood On Music #Deep
-https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musceltv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Muscel FM 94.1
 http://188.27.135.199:8000/muscelfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mariaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mária Rádió Erdély
@@ -657,6 +657,8 @@ https://romaneasca.radiotequila.ro/8989/stream
 https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
@@ -777,6 +779,8 @@ http://stream2.srr.ro:8032/;
 http://89.238.227.6:8344/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/supradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SUP Radio
 https://sup.umfst.ro:8000/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/sepsiradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sepsi Rádió 98.5 FM
+https://stream.sepsiradio.ro:8001/SepsiRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bluz.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Shuffle FM
 http://bluz.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosky.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sky FM 101.1
