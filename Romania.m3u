@@ -413,8 +413,6 @@ https://razvcarp1.radioca.st/;/;stream.mp3
 https://ssl.asculta.live:8288/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioda.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio DA
 https://stream.radiojar.com/du8khw2d2wzuv
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodeea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio DEEA
-https://radiocdn.nxthost.com/radio-deea
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodada.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Dada FM 106.6
 https://live.laris.ro:8004/radiodada128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-damici.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Damici FM
@@ -661,8 +659,6 @@ http://asculta.radiotaraf.com:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
