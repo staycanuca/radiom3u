@@ -413,6 +413,8 @@ https://razvcarp1.radioca.st/;/;stream.mp3
 https://ssl.asculta.live:8288/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioda.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio DA
 https://stream.radiojar.com/du8khw2d2wzuv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodeea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio DEEA
+https://radiocdn.nxthost.com/radio-deea
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodada.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Dada FM 106.6
 https://live.laris.ro:8004/radiodada128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-damici.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Damici FM
@@ -775,8 +777,6 @@ http://stream2.srr.ro:8032/;
 http://89.238.227.6:8344/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/supradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SUP Radio
 https://sup.umfst.ro:8000/live.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/sepsiradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sepsi Rádió 98.5 FM
-https://stream.sepsiradio.ro:8001/SepsiRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bluz.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Shuffle FM
 http://bluz.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosky.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Sky FM 101.1
