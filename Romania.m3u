@@ -95,8 +95,6 @@ https://azura.ebsmedia.ro/radio/8130/nouvelle128.mp3
 https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Romanian Gold
 https://azura.ebsmedia.ro/radio/8140/romaniangold320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Xmas
-https://azura.ebsmedia.ro/radio/8190/xmas320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ercisfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Ercis FM
 https://stream.zeno.fm/ehbuv5erws8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/erdelyfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Erdely FM
@@ -313,6 +311,8 @@ http://94.52.142.229:85/broadwave.mp3
 https://pro.radiobandit.ro/listen/bandit/128.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiobandit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Bandit - 90s
 https://pro.radiobandit.ro/listen/bandit90/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioblaj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Blaj FM 96.2
+https://ssl.asculta.live:8016/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiobrasov.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Brasov FM 87.8
 https://live.radiobrasov.ro/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiocfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio CFM 92.9
@@ -819,6 +819,8 @@ https://web.smartradio.ro:8443/smartsunsetbulevard
 https://web.smartradio.ro:8443/smartfusion
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smilefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smile FM
 https://sonicssl.namehost.ro/8040/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
