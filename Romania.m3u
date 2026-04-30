@@ -77,10 +77,14 @@ https://azura.ebsmedia.ro/radio/8040/electro320.aac
 https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Jazz
 https://azura.ebsmedia.ro/radio/8030/jazz320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
+https://azura.ebsmedia.ro/radio/8060/local320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Lounge
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -105,10 +109,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
-https://ssl.servereradio.ro/8054/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/freshfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fresh FM 105.6
@@ -173,6 +173,8 @@ https://live.kissfm.ro/kimaroradio
 https://live.kissfm.ro/kissnchill
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss 4 Love
 https://live.kissfm.ro/kiss4love
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss Hits from the 10s
+https://live.kissfm.ro/kiss.hits.from.the.10s
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss Kids By Cristi Nitzu
 https://live.kissfm.ro/kisskidsbynitzu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss Kiss in the Summer by DJ Yaang
@@ -320,7 +322,7 @@ https://live.radiobrasov.ro/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiocfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio CFM 92.9
 https://stream2.radiocfm.ro:8443/CFM
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiocafe.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Cafe
-https://live.radiocafe.ro:8443/
+https://live.radiocafe.ro:8443
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/campusradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Campus
 https://free.rcast.net/72294
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/campusbuzau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Campus FM98
@@ -659,8 +661,6 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
@@ -821,6 +821,8 @@ https://web.smartradio.ro:8443/smartsunsetbulevard
 https://web.smartradio.ro:8443/smartfusion
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smilefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smile FM
 https://sonicssl.namehost.ro/8040/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
@@ -857,6 +859,8 @@ https://urbanfm.ro:8777/live
 https://s7.everestcast.com:6805/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbansunsets.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urbansunsets
 https://stream.radio.co/sedf8bacc9/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vibefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vibe FM 92.1
+https://astreaming.vibefm.ro:8443/vibe_ro64
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/virginradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Virgin Radio FM 100.2
 https://astreaming.edi.ro:8443/VirginRadio_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Botoșani
@@ -879,8 +883,6 @@ https://sonic2-rbx.cloud-center.ro/8034/stream
 https://yagerchaletradio.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/zcj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ZC Radio
 https://sonicssl.namehost.ro/8020/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/eteatru.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",eTeatru
-http://stream2.srr.ro:8078/eteatru.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/paprikaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",paprika rádió
 https://stream1.paprikaradio.ro/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosomes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",radio SOMEȘ
