@@ -25,6 +25,8 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 http://stream2.srr.ro:8210/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bravia.fm?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bravia FM
 https://s5.radio.co/s0a66e1ff2/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.tvbuzau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Buzz FM 87.9
+https://radio.sonicpanel.ro:8034/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Etno
@@ -83,8 +85,6 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -663,6 +663,8 @@ http://asculta.radiotaraf.com:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
