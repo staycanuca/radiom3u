@@ -285,8 +285,6 @@ http://162.244.80.32:9468/;stream.mp3
 https://stream.rvesibiu.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve-zalau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Zalău
 https://stream.rve-zalau.ro/rvezalau.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvesv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVESV
-https://s9.yesstreaming.net:7014/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounumanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 1 Manele
 https://ssl.omegahost.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-seven.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio 7 Romania
@@ -467,10 +465,6 @@ http://89.39.189.112:8458/stream/;
 https://s9.webradio-hosting.com/proxy/rgmcolinde/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Dance
 https://s10.webradio-hosting.com/proxy/rgmdance/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Planet Funk
-https://play.webradio-hosting.com:8036/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Relax Garden
-https://play.webradio-hosting.com:8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Retro
 https://s9.webradio-hosting.com/proxy/rgmretro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Rock
@@ -511,6 +505,8 @@ http://live.adradio.ro:8894/128/;
 http://asculta.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Manele
 http://manele.radioliberty.ro:7770/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Mixt
+http://mixt.radioliberty.ro:1989/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Muzica Romaneasca
 http://romaneasca.radioliberty.ro:7060/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioliberty.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Liberty Oldies
@@ -811,8 +807,6 @@ https://web.smartradio.ro:8443/smartontrend
 https://web.smartradio.ro:8443/smartoxfordstreet
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart Rave
 https://web.smartradio.ro:8443/smartrave
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart Street
-https://web.smartradio.ro:8443/smartstreet
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart Sunset Boulevard
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
