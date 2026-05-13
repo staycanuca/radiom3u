@@ -27,6 +27,8 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bucovinafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.tvbuzau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Buzz FM 87.9
+https://radio.sonicpanel.ro/8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Etno
@@ -493,6 +495,8 @@ https://live.radiohitfm.net/8989/stream
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohot.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hot Style
+https://live.radiohot.ro/8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohybraila.eu5.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hy Braila
 http://asculta.ascultatare.ro:8034/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioiubire.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Iubire
@@ -659,8 +663,6 @@ http://asculta.radiotaraf.ro:7100/;
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
