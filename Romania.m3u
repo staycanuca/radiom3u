@@ -307,6 +307,8 @@ https://ssl.omegahost.ro/8066/stream
 http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
+http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/arad1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad 99,1 FM
@@ -581,8 +583,6 @@ https://stream.adradio.ro/8414
 https://live.radioprob.ro:8888/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiorfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio RFM 103.1
 https://shout.realitatea.net:8001/mixt
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Radeni+FM&background=random&color=fff&size=128",Radio Radeni FM
-http://fanfmro.zapto.org:8585/live/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioregional.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Regional
 https://stream.clever-host.ro/8008/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/reintregirea.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Reintregirea
@@ -665,6 +665,8 @@ http://asculta.radiotaraf.com:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://manele.radiotequila.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
@@ -739,6 +741,8 @@ https://so.rve.ro/rveso.mp3
 https://tg.rve.ro/rvetg.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiowish.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Wish
 https://s101.radiolize.com/radio/8050/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioxnet.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio X Net Manele
+http://asculta.radioxnet.ro:8888/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiozu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio ZU
 https://mscp4.gazduireradio.ro:8160/radiozu.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiozalau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Zalău
