@@ -495,8 +495,6 @@ https://dance.radiogangsta.ro:8800/stream/;
 http://asculta.radiogangsta.ro:8800/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/guerrillaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Guerilla FM 94.8
 https://live.guerrillaradio.ro:8443/guerrilla.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohitfm.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio HiT FM Petrecere
-https://live.radiohitfm.net/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiohit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit
 http://live02.radiohit.ro:8000/hit.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-hit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Hit Romania
@@ -619,6 +617,8 @@ https://asculta.radioromanian.net/popular
 https://asculta.radioromanian.net/rock
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic
 https://radio-romantic.ro/stream/?index.php.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Manele Vechi
+https://radio-romantic.ro/meniu/manele.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Populară
 https://radio-romantic.ro/meniu/populara.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-romantic.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Romantic Teatru Radiofonic
@@ -683,8 +683,6 @@ https://streaming12.elitecomunicacion.es:8096/stream3
 http://89.238.227.6:8350/%7CRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotop.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Top 104
 https://live.radiotop.ro/radio/8000/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotraditional.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Traditional Manele
-https://radio.ascultatare.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 106.1 FM
 https://stream2.radiotransilvania.ro/BaiaMare
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 94.1 FM
