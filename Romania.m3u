@@ -83,6 +83,8 @@ https://azura.ebsmedia.ro/radio/8040/electro320.aac
 https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Jazz
 https://azura.ebsmedia.ro/radio/8030/jazz320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Local
+https://azura.ebsmedia.ro/radio/8060/local320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Lounge
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
@@ -683,6 +685,8 @@ https://streaming12.elitecomunicacion.es:8096/stream3
 http://89.238.227.6:8350/%7CRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotop.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Top 104
 https://live.radiotop.ro/radio/8000/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotraditional.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Traditional Manele
+https://radio.ascultatare.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 106.1 FM
 https://stream2.radiotransilvania.ro/BaiaMare
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotransilvania.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Transilvania 94.1 FM
