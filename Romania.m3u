@@ -11,6 +11,8 @@ http://86.125.106.34:8000/live
 http://radio2.tirek.hu:8000/agnusradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/alpimur-radio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alpimur Radio
 https://ssl.asculta.live/8444/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/altfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alt FM
+https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
 https://icecast.banatfm.ro:8443/banatfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/big-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Big FM
@@ -67,8 +69,6 @@ https://azura.ebsmedia.ro/radio/8010/live128.mp3
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
-https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
 https://azura.ebsmedia.ro/listen/classical/classical128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Dolce Vita
@@ -85,8 +85,6 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -111,8 +109,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
-https://ssl.servereradio.ro/8054/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
