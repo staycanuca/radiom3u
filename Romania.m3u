@@ -207,8 +207,6 @@ https://s7.citrus3.com:8022/stream
 https://arlandria.go.ro:7443/lounge
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mb-radio.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MB Music Radio
 https://s33.myradiostream.com/16150/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mdifm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MDI FM 88.1
-http://stream.mdifm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mfmdance.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MFM Dance 105.7
 https://ssl.radios.show/8012/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/magicfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Magic 80s Hits
@@ -309,6 +307,8 @@ https://live.90hit.ro:8000/radio.mp3
 https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
 http://86.123.70.144:8000/sample128
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
+http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
@@ -665,6 +665,8 @@ https://romaneasca.radiotequila.ro/8989/stream
 https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
