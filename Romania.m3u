@@ -201,8 +201,6 @@ https://s7.citrus3.com:8022/stream
 https://arlandria.go.ro:7443/lounge
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mb-radio.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MB Music Radio
 https://s33.myradiostream.com/16150/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mdifm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MDI FM 88.1
-http://stream.mdifm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mfmdance.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MFM Dance 105.7
 https://ssl.radios.show/8012/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/magicfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Magic 80s Hits
@@ -665,6 +663,8 @@ https://romaneasca.radiotequila.ro/8989/stream
 https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-terra.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Terra
@@ -833,6 +833,8 @@ https://spacefm.live/radio/8000/spacefm128
 https://retro.spacefm.live/listen/spacefm_retro/retro128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostarsebes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Star FM 90.1
 https://s6.myradiostream.com/47330/listen.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/magyarfeny.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Star Radio
+https://online.webcastradio.ro/star
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/stilfmdej.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Stil FM 106.1
 http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/stilfmradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Stil FM Radio
