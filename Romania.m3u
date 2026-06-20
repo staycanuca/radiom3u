@@ -43,6 +43,8 @@ https://mscp5.gazduireradio.ro:1270/stream
 https://mscp1.gazduireradio.ro/cityradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioclubmix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ClubMix Radio
 https://live.mikeriverra.com:9999/320mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.copahavana.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Copahavana
+https://radio.copahavana.ro:8443/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/crossone.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/djradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DJ Radio Romania
@@ -85,6 +87,8 @@ https://azura.ebsmedia.ro/radio/8060/local320.aac
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Magyar Zene
 https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Movie Soundtracks
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Music
 https://azura.ebsmedia.ro/radio/8000/music320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Nostalgie
@@ -117,6 +121,8 @@ https://hello.citrus3.com:2020/stream/focsnews
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/funfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fun FM 87.6
 http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodreams.g1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",G1 Radio Dance
+https://radiodreams.g1.ro:3390/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/gherlafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",GerlaFM
 http://89.39.189.70:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/gherlafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Gherla FM
@@ -879,8 +885,6 @@ https://asculta.whiteheaven.ro/stream
 https://sonic2-rbx.cloud-center.ro/8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Yager+Chalet+Radio&background=random&color=fff&size=128",Yager Chalet Radio
 https://yagerchaletradio.radioca.st/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/zcj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",ZC Radio
-https://sonicssl.namehost.ro/8020/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/paprikaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",paprika rádió
 https://stream1.paprikaradio.ro/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosomes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",radio SOMEȘ
