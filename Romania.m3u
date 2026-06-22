@@ -59,16 +59,12 @@ https://edge126.rcs-rds.ro/digifm/digi24fm.mp3
 https://edge76.rcs-rds.ro/digifm/digifm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/discomix.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Disco Mix
 https://play.discomix.ro/8002/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/dreamfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Dream FM 92.2
-http://dreamfm.dtech.ro:9220/dreamfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/duxradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",DuxRadio
 https://radio.duxradio.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS 90.4 FM
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
 https://azura.ebsmedia.ro/radio/8020/alternative320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
-https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
 https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Classical
@@ -113,8 +109,6 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
@@ -301,8 +295,6 @@ https://lb01.bpstream.com:8600/9fm.mp3/;
 https://live.90hit.ro:8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/atentat.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio A-Tentat
 https://ssl.omegahost.ro/8066/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
-http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
