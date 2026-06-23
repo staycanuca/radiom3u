@@ -227,10 +227,6 @@ https://ec2.yesstreaming.net:1810/stream
 http://188.27.135.199:8000/muscelfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mariaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mária Rádió Erdély
 https://stream.mariaradio.ro/MRE
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/napocafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Napoca FM 102.2
-https://streaming.napocalive.ro/napoca-fm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/napocalive.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Napoca FM Rock
-https://streaming.napocalive.ro/napoca-rock
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/nationalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",National FM 91.7 FM
 https://asculta.nationalfm.ro:9102/nfm2
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/newspascani.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",News FM Pascani
