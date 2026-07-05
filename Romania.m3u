@@ -113,12 +113,12 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/funfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fun FM 87.6
+http://online.funfm.ro:8000/funfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodreams.g1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",G1 Radio Dance
 https://radiodreams.g1.ro:3390/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/gherlafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",GerlaFM
@@ -171,8 +171,6 @@ https://live.kissfm.ro/headbangersbysoci
 https://live.kissfm.ro/kkm.radio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - K&C Drama Soundtracks by Andreea Berghea
 https://live.kissfm.ro/kandcdrama
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - KiMaRo Radio
-https://live.kissfm.ro/kimaroradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss & Chill
 https://live.kissfm.ro/kissnchill
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/kissfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Kiss - Kiss 4 Love
@@ -201,8 +199,6 @@ https://s7.citrus3.com:8022/stream
 https://arlandria.go.ro:7443/lounge
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mb-radio.org?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MB Music Radio
 https://s33.myradiostream.com/16150/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mdifm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MDI FM 88.1
-http://stream.mdifm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mfmdance.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",MFM Dance 105.7
 https://ssl.radios.show/8012/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/magicfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Magic 80s Hits
@@ -267,6 +263,8 @@ https://edge126.rcs-rds.ro/profm/profm.mp3
 http://93.115.174.139:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/pulsfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Puls FM 94.7
 http://mxii.go.ro:8090/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rfi.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RFI România
+https://asculta.radiorfi.ro/live.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioprahova.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RPH Radio Prahova 99.2 FM
 https://r2.mediastreaming.ro/listen/rph/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rve.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",RVE Bucuresti
@@ -851,6 +849,8 @@ https://cloud.radiosonicpanel.ro/8002/stream
 https://cloud.radiosonicpanel.ro/8008/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Suceava
 https://cloud.radiosonicpanel.ro:8004/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiovocescampi.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Campi FM 101.1
+https://vocescampi.ro:8443/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvs.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Sperantei FM 94.2
 https://live.rvs.ro/play
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/weradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",We Radio 91 FM
