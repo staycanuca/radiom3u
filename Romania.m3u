@@ -11,8 +11,6 @@ http://86.125.106.34:8000/live
 http://radio2.tirek.hu:8000/agnusradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/alpimur-radio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alpimur Radio
 https://ssl.asculta.live/8444/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/altfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Alt FM
-https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/autobazaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Autobaza Radio
 https://s3.myradiostream.com/7022/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
@@ -67,6 +65,8 @@ http://dreamfm.dtech.ro:9220/dreamfm
 https://radio.duxradio.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS 90.4 FM
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Alternative
+https://azura.ebsmedia.ro/radio/8020/alternative320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/ebsradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",EBS Cantece de Petrecere
@@ -299,8 +299,6 @@ https://ssl.omegahost.ro/8066/stream
 http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
-http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/arad1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Arad 99,1 FM
@@ -471,8 +469,6 @@ https://s9.webradio-hosting.com/proxy/rgmrock/stream
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Trap
 https://s9.webradio-hosting.com/proxy/rgmtrap/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogaga.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Gaga
-http://rc.radiogaga.ro:8000/live?.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rtvgalaxy.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Galaxy 100.6 FM
 http://185.128.240.236:8000/galaxy
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogangsta.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Gangsta Dance
@@ -745,8 +741,6 @@ https://listen.rocknowradio.ro/
 https://online.webcastradio.ro/rock-u.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/romanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Roman FM 94.2
 https://live.romanfm.ro:8000/;rfm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogaga.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rádió GaGa
-http://rc.radiogaga.ro:8000/mp3-256
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiokoko.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rádió Koko Marosvásárhely
 https://az10.yesstreaming.net:8210/radiokoko.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/regioradio.info?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Régió Rádió
@@ -847,8 +841,6 @@ https://cloud.radiosonicpanel.ro/8002/stream
 https://cloud.radiosonicpanel.ro/8008/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Suceava
 https://cloud.radiosonicpanel.ro:8004/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiovocescampi.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Campi FM 101.1
-https://vocescampi.ro:8443/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvs.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Sperantei FM 94.2
 https://live.rvs.ro/play
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/weradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",We Radio 91 FM
