@@ -115,8 +115,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
-https://ssl.servereradio.ro/8054/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
@@ -415,6 +415,8 @@ https://s9.webradio-hosting.com/proxy/rgmrock/stream
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogmusic.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio GMusic Trap
 https://s9.webradio-hosting.com/proxy/rgmtrap/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogaga.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Gaga
+http://rc.radiogaga.ro:8000/live?.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rtvgalaxy.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Galaxy 100.6 FM
 http://185.128.240.236:8000/galaxy
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogangsta.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Gangsta Dance
@@ -585,8 +587,6 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
@@ -693,6 +693,8 @@ https://listen.rocknowradio.ro/
 https://online.webcastradio.ro/rock-u.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/romanfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Roman FM 94.2
 https://live.romanfm.ro:8000/;rfm
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiogaga.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rádió GaGa
+http://rc.radiogaga.ro:8000/mp3-256
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiokoko.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rádió Koko Marosvásárhely
 https://az10.yesstreaming.net:8210/radiokoko.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/regioradio.info?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Régió Rádió
