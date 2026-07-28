@@ -441,6 +441,8 @@ http://live.adradio.ro:8894/128/;
 http://asculta.radiolipova.ro:1717/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomplusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio M Plus 95.7
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomelodia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio MELODIA
+https://radio.sonicpanel.ro:8106/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomaria.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Maria România
 https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiomastersm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Master
@@ -741,8 +743,6 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
-https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
@@ -787,6 +787,8 @@ https://cloud.radiosonicpanel.ro:8006/stream
 https://cloud.radiosonicpanel.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Piatra Neamț 94.7 FM
 https://cloud.radiosonicpanel.ro/8008/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Suceava
+https://cloud.radiosonicpanel.ro:8004/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiovocescampi.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Campi FM 101.1
 https://vocescampi.ro:8443/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rvs.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vocea Sperantei FM 94.2
