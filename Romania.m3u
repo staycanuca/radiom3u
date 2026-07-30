@@ -15,8 +15,6 @@ https://ssl.asculta.live/8444/stream
 https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/autobazaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Autobaza Radio
 https://s3.myradiostream.com/7022/listen.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/banatfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Banat FM 101.2
-https://icecast.banatfm.ro:8443/banatfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/big-fm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bistritafmradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bistrita FM 92.6
@@ -747,8 +745,6 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
-https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
