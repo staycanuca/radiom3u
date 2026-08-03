@@ -29,8 +29,6 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bucovinafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.tvbuzau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Buzz FM 87.9
-https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Etno
@@ -115,6 +113,10 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
+https://ssl.servereradio.ro/8054/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
@@ -623,8 +625,6 @@ https://stream2.radiotransilvania.ro/Oradea
 https://live.radiotrinitas.ro:8003/;stream.nsv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioturda.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Turda 107.7 FM
 https://live.aftech.ro/listen/radio_turda/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotargujiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Târgu Jiu 97.8 FM
-https://media2.streambrothers.com:8248/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.usv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio USV
 http://live2.usv.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounique.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unique
