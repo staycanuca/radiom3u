@@ -115,14 +115,14 @@ https://live.gofm.ro:2000/stream/eveniment
 https://s3.radio.co/s1492c0564/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Manele
 https://ssl.servereradio.ro/8054/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/funfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Fun FM 87.6
 http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiodreams.g1.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",G1 Radio Dance 90's Hits
+https://radiodreams.g1.ro:3399/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/gherlafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",GerlaFM
 http://89.39.189.70:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/gherlafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Gherla FM
@@ -587,8 +587,6 @@ https://streams.radio.co/s78f983952/listen
 http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotaraf.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Taraf - Manele
 http://asculta.radiotaraf.ro:7100/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
-https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
@@ -625,6 +623,8 @@ https://stream2.radiotransilvania.ro/Oradea
 https://live.radiotrinitas.ro:8003/;stream.nsv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioturda.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Turda 107.7 FM
 https://live.aftech.ro/listen/radio_turda/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotargujiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Târgu Jiu 97.8 FM
+https://stream.radiotargujiu.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.usv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio USV
 http://live2.usv.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounique.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unique
