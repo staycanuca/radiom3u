@@ -303,8 +303,6 @@ https://live.90hit.ro:8000/radio.mp3
 https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
 http://86.123.70.144:8000/sample128
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
-http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
@@ -469,8 +467,6 @@ http://musictown.crazydesign.biz:8000/;
 https://live.radiomynele.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radionebunya.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Nebunya Manele
 https://ssl.radionebunya.ro/7575/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/hiphop.radionoise.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Noise HipHop
-https://hiphoplive.radionoise.ro:9110/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radionoise.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Noise Rock
 https://rocklive.radionoise.ro:9130/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radionoise.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Noise Romania
