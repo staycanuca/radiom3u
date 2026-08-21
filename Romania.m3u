@@ -617,6 +617,8 @@ https://stream2.radiotransilvania.ro/Ludus
 https://stream2.radiotransilvania.ro/Oradea
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotrinitas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Trinitas 88.5
 https://live.radiotrinitas.ro:8003/;stream.nsv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.tuktuk.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio TukTuk
+https://servidor38-3.brlogic.com:7206/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioturda.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Turda 107.7 FM
 https://live.aftech.ro/listen/radio_turda/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotargujiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Târgu Jiu 97.8 FM
@@ -745,8 +747,6 @@ https://web.smartradio.ro:8443/smartfusion
 https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
-https://retro.spacefm.live/listen/spacefm_retro/retro128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostarsebes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Star FM 90.1
 https://s6.myradiostream.com/47330/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/magyarfeny.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Star Radio
