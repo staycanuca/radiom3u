@@ -31,8 +31,6 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/bucovinafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.tvbuzau.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Buzz FM 87.9
-https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/capitalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Capital FM Etno
@@ -575,8 +573,6 @@ http://89.238.227.6:8390/;
 http://89.33.243.3:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostabilpitesti.eu?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Stabil Pitesti
 https://live.radiostabilpitesti.eu/9986/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiostar.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Star 90.2 FM
-https://ssl.asculta.live:8310/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosud.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Sud FM 97.4
 http://media.gds.ro:8500/128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotrib.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio TRIB
