@@ -117,6 +117,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/extravaganzaradio.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/fmradiomanele.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focsnews.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/focusfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Focus FM
@@ -233,8 +235,6 @@ http://metronom-fm.ro:8000/stream.ogg
 https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/musceltv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Muscel FM 94.1
 http://188.27.135.199:8000/muscelfm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/mariaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Mária Rádió Erdély
-https://stream.mariaradio.ro/MRE
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/napocafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Napoca FM 102.2
 https://nfm-s1.bit-ns.cloud/stream1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/nationalfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",National FM 91.7 FM
@@ -585,8 +585,6 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Dance
-https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotequila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Tequila Petrecere
@@ -783,8 +781,6 @@ https://urbanfm.ro:8777/live
 https://s7.everestcast.com:6805/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/urbansunsets.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Urbansunsets
 https://stream.radio.co/sedf8bacc9/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vibefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Vibe FM 92.1
-https://astreaming.vibefm.ro:8443/vibe_ro64
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/virginradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Virgin Radio FM 100.2
 https://astreaming.edi.ro:8443/VirginRadio_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/vivafm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Viva FM Botoșani
