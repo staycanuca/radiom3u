@@ -673,6 +673,8 @@ https://streaming.shoutcast.com/radiozen
 https://securestreams.autopo.st:2489/negru.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RadioTimiBanat+Eurodisco&background=random&color=fff&size=128",RadioTimiBanat Eurodisco
 https://streaming12.elitecomunicacion.es:8102/stream2
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioretro.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Retro Radio
+https://online.radioretro.ro:8003/RetroRadio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rockfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rock 80s & 90s
 https://live.kissfm.ro/rock.8090
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/rockfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Rock FM Ballads
