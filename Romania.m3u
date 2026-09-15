@@ -303,8 +303,6 @@ https://live.90hit.ro:8000/radio.mp3
 https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
 http://86.123.70.144:8000/sample128
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
-http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
@@ -481,8 +479,6 @@ http://86.123.160.19:8000/;;
 http://listen.radiooldies.ro:9200/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiooltenia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Oltenia 102.9 FM
 https://stream4.srr.ro:8443/radio-oltenia
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/orionradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Orion 91.7 FM
-https://sonic2-rbx.cloud-center.ro/8070/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/orionfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Orion FM 96.6
 https://cast.orionfm.ro/listen/orion/public.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiopetrecaretzu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Petrecăretzu
@@ -801,8 +797,6 @@ http://ado1.weradio.ro:8000/;
 https://live.westcityradio.ro:8443/aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/whiteheaven.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Whiteheaven Radio
 https://asculta.whiteheaven.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/youfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",YOU FM Romania
-https://sonic2-rbx.cloud-center.ro/8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/paprikaradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",paprika rádió
 https://stream1.paprikaradio.ro/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiosomes.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",radio SOMEȘ
