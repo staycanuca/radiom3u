@@ -303,6 +303,8 @@ https://live.90hit.ro:8000/radio.mp3
 https://ssl.omegahost.ro/8066/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS
 http://86.123.70.144:8000/sample128
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.radi0.im?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Petrecere 95.5 FM
+http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioas.net?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio AS Tarnaveni 107.1 FM
 http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-aquila.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Aquila
@@ -369,6 +371,8 @@ https://radiodomeldo.ro/movie
 http://zuicast.digitalag.ro:9420/dor
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/doxologia.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Doxologia
 https://rlive.doxologia.ro/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/emaramures.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio EMM (eMaramureş)
+https://radio.emaramures.ro/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio-econatura.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Eco Natura
 https://stream.radiojar.com/fp5c3fgbyzzuv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.eldad.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Eldad
@@ -741,6 +745,8 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/smartradio.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/socialfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/spacefm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",SpaceFM Retro
