@@ -321,6 +321,8 @@ https://banatlink.go.ro:8080
 https://pro.radiobandit.ro/listen/bandit/128.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiobandit.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Bandit - 90s
 https://pro.radiobandit.ro/listen/bandit90/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radioblaj.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Blaj FM 96.2
+https://ssl.asculta.live:8016/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiobrasov.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Brasov FM 87.8
 https://live.radiobrasov.ro/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiocfm.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio CFM 92.9
@@ -629,6 +631,8 @@ https://servidor38-3.brlogic.com:7206/live
 https://live.aftech.ro/listen/radio_turda/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiotargujiu.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Târgu Jiu 97.8 FM
 https://stream.radiotargujiu.ro/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radio.usv.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio USV
+http://live2.usv.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounique.ro?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unique
 https://listen.radiounique.ro/listen/radio_unique_romania/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://img.logo.dev/radiounusm.com?token=pk_b0RiC-anSWOcvgBmS9Qy7Q",Radio Unu
