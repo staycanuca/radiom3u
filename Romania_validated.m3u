@@ -1,442 +1,424 @@
 #EXTM3U
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Manele&background=random&color=fff&size=128",Capital FM Manele
-https://ssl.omegahost.ro/8020/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
-http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=98.2+Nova+FM&background=random&color=fff&size=128",98.2 Nova FM
 http://86.125.106.34:8000/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
+http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Big+FM&background=random&color=fff&size=128",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Etno&background=random&color=fff&size=128",Capital FM Etno
 https://radio.sonicpanel.ro/7000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Buzz+FM+87.9&background=random&color=fff&size=128",Buzz FM 87.9
-https://radio.sonicpanel.ro:8034/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=5FM+(Five+FM)&background=random&color=fff&size=128",5FM (Five FM)
-https://c22.radioboss.fm:8700/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bravia+FM&background=random&color=fff&size=128",Bravia FM
+https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Alpimur+Radio&background=random&color=fff&size=128",Alpimur Radio
 https://ssl.asculta.live/8444/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dark+Edge+Radio&background=random&color=fff&size=128",Dark Edge Radio
-https://stream.darkedge.ro:8002/stream/4/
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=5FM+(Five+FM)&background=random&color=fff&size=128",5FM (Five FM)
+https://c22.radioboss.fm:8700/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=City+Rádió&background=random&color=fff&size=128",City Rádió
+https://mscp1.gazduireradio.ro/cityradio
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Black+Rhino+Radio&background=random&color=fff&size=128",Black Rhino Radio
+https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Nostalgie&background=random&color=fff&size=128",EBS Nostalgie
+https://azura.ebsmedia.ro/listen/nostalgie/nostalgie128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Banat+FM+101.2&background=random&color=fff&size=128",Banat FM 101.2
+https://cast.banatfm.ro/listen/banat_fm/live.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Disco+Mix&background=random&color=fff&size=128",Disco Mix
+https://play.discomix.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Autobaza+Radio&background=random&color=fff&size=128",Autobaza Radio
+https://s3.myradiostream.com/7022/listen.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DuxRadio&background=random&color=fff&size=128",DuxRadio
+https://radio.duxradio.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Music&background=random&color=fff&size=128",EBS Music
+https://azura.ebsmedia.ro/radio/8000/music320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Dolce+Vita&background=random&color=fff&size=128",EBS Dolce Vita
+https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
+http://89.40.72.71:8000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DJ+Radio+Romania&background=random&color=fff&size=128",DJ Radio Romania
+https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Magyar+Zene&background=random&color=fff&size=128",EBS Magyar Zene
+https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Local&background=random&color=fff&size=128",EBS Local
+https://azura.ebsmedia.ro/radio/8060/local320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Fresco&background=random&color=fff&size=128",EBS Fresco
+https://azura.ebsmedia.ro/radio/8120/fresco320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=ClubMix+Radio&background=random&color=fff&size=128",ClubMix Radio
+https://live.mikeriverra.com:9999/320mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Ercis+FM&background=random&color=fff&size=128",Ercis FM
+https://stream.zeno.fm/ehbuv5erws8uv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Classical&background=random&color=fff&size=128",EBS Classical
+https://azura.ebsmedia.ro/listen/classical/classical128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Nouvelle+Vague&background=random&color=fff&size=128",EBS Nouvelle Vague
+https://azura.ebsmedia.ro/radio/8130/nouvelle128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Romanian+Folk&background=random&color=fff&size=128",EBS Romanian Folk
+https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Alternative&background=random&color=fff&size=128",EBS Alternative
+https://azura.ebsmedia.ro/radio/8020/alternative320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Cantece+de+Petrecere&background=random&color=fff&size=128",EBS Cantece de Petrecere
+https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Jazz&background=random&color=fff&size=128",EBS Jazz
+https://azura.ebsmedia.ro/radio/8030/jazz320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bistrita+FM+92.6&background=random&color=fff&size=128",Bistrita FM 92.6
+https://streams.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
+https://cloud.radiosonicpanel.ro/8032/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Movie+Soundtracks&background=random&color=fff&size=128",EBS Movie Soundtracks
+https://azura.ebsmedia.ro/radio/8100/movies320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Blues&background=random&color=fff&size=128",EBS Blues
 https://azura.ebsmedia.ro/radio/8050/blues320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+90.4+FM&background=random&color=fff&size=128",EBS 90.4 FM
 https://azura.ebsmedia.ro/radio/8010/live128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DJ+Radio+Romania&background=random&color=fff&size=128",DJ Radio Romania
-https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bistrita+FM+92.6&background=random&color=fff&size=128",Bistrita FM 92.6
-https://streams.radiomast.io/66f238bb-8b61-4196-a8c3-28aea07235e8
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Black+Rhino+Radio&background=random&color=fff&size=128",Black Rhino Radio
-https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bravia+FM&background=random&color=fff&size=128",Bravia FM
-https://s5.radio.co/s0a66e1ff2/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=ClubMix+Radio&background=random&color=fff&size=128",ClubMix Radio
-https://live.mikeriverra.com:9999/320mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Lounge&background=random&color=fff&size=128",EBS Lounge
-https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Romanian+Folk&background=random&color=fff&size=128",EBS Romanian Folk
-https://azura.ebsmedia.ro/radio/8150/romanianfolk320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Banat+FM+101.2&background=random&color=fff&size=128",Banat FM 101.2
-https://cast.banatfm.ro/listen/banat_fm/live.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DuxRadio&background=random&color=fff&size=128",DuxRadio
-https://radio.duxradio.ro/8002/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
-http://89.40.72.71:8000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Alternative&background=random&color=fff&size=128",EBS Alternative
-https://azura.ebsmedia.ro/radio/8020/alternative320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Ercis+FM&background=random&color=fff&size=128",Ercis FM
-https://stream.zeno.fm/ehbuv5erws8uv
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Music&background=random&color=fff&size=128",EBS Music
-https://azura.ebsmedia.ro/radio/8000/music320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Local&background=random&color=fff&size=128",EBS Local
-https://azura.ebsmedia.ro/radio/8060/local320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Dolce+Vita&background=random&color=fff&size=128",EBS Dolce Vita
-https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Magyar+Zene&background=random&color=fff&size=128",EBS Magyar Zene
-https://azura.ebsmedia.ro/radio/8160/hungarian320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Disco+Mix&background=random&color=fff&size=128",Disco Mix
-https://play.discomix.ro/8002/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Nostalgie&background=random&color=fff&size=128",EBS Nostalgie
-https://azura.ebsmedia.ro/listen/nostalgie/nostalgie128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Nouvelle+Vague&background=random&color=fff&size=128",EBS Nouvelle Vague
-https://azura.ebsmedia.ro/radio/8130/nouvelle128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Eveniment+FM+103.2&background=random&color=fff&size=128",Eveniment FM 103.2
-https://live.gofm.ro:2000/stream/eveniment
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Fresco&background=random&color=fff&size=128",EBS Fresco
-https://azura.ebsmedia.ro/radio/8120/fresco320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Electro&background=random&color=fff&size=128",EBS Electro
 https://azura.ebsmedia.ro/radio/8040/electro320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Classical&background=random&color=fff&size=128",EBS Classical
-https://azura.ebsmedia.ro/listen/classical/classical128.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Movie+Soundtracks&background=random&color=fff&size=128",EBS Movie Soundtracks
-https://azura.ebsmedia.ro/radio/8100/movies320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Jazz&background=random&color=fff&size=128",EBS Jazz
-https://azura.ebsmedia.ro/radio/8030/jazz320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Cantece+de+Petrecere&background=random&color=fff&size=128",EBS Cantece de Petrecere
-https://azura.ebsmedia.ro/radio/8170/petrecere320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Lounge&background=random&color=fff&size=128",EBS Lounge
+https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Xmas&background=random&color=fff&size=128",EBS Xmas
 https://azura.ebsmedia.ro/radio/8190/xmas320.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dark+Edge+Radio&background=random&color=fff&size=128",Dark Edge Radio
+https://stream.darkedge.ro:8002/stream/4/
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
+https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
+https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=GerlaFM&background=random&color=fff&size=128",GerlaFM
 http://89.39.189.70:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Romanian+Gold&background=random&color=fff&size=128",EBS Romanian Gold
 https://azura.ebsmedia.ro/radio/8140/romaniangold320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Autobaza+Radio&background=random&color=fff&size=128",Autobaza Radio
-https://s3.myradiostream.com/7022/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Gherla+FM&background=random&color=fff&size=128",Gherla FM
 http://89.39.189.52:8000/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
-https://cloud.radiosonicpanel.ro/8032/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=City+Rádió&background=random&color=fff&size=128",City Rádió
-https://mscp1.gazduireradio.ro/cityradio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
-https://hello.citrus3.com:2020/stream/focsnews
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Petrecere&background=random&color=fff&size=128",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Eveniment+FM+103.2&background=random&color=fff&size=128",Eveniment FM 103.2
+https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Hangos+Rádió&background=random&color=fff&size=128",Hangos Rádió
 https://stream.zeno.fm/zme1m34uzv8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Go+FM&background=random&color=fff&size=128",Go FM
 https://live.gofm.ro:2000/stream/goFMro
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
-https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Intuit+FM&background=random&color=fff&size=128",Intuit FM
-https://c20.radioboss.fm:8619/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MDI+FM+88.1&background=random&color=fff&size=128",MDI FM 88.1
-http://stream.mdifm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dream+FM+92.2&background=random&color=fff&size=128",Dream FM 92.2
 http://dreamfm.dtech.ro:9220/dreamfm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mood+On+Music+#Deep&background=random&color=fff&size=128",Mood On Music #Deep
-https://ec2.yesstreaming.net:1810/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jurnal+FM+92&background=random&color=fff&size=128",Jurnal FM 92
-https://ssl.radios.show:7009/stream/
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kiss+in+the+Summer+by+DJ+Yaang&background=random&color=fff&size=128",Kiss - Kiss Kiss in the Summer by DJ Yaang
-https://live.kissfm.ro/kisskisssummer
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+FM&background=random&color=fff&size=128",Kiss FM
-https://live.kissfm.ro/kissfm.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Afro+Vibes+Volume+II+by+Nico&background=random&color=fff&size=128",Kiss - Afro Vibes Volume II by Nico
-https://live.kissfm.ro/afrovibesbynico
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Drive+Time+Hits+by+Ana+Moga&background=random&color=fff&size=128",Kiss - Drive Time Hits by Ana Moga
-https://live.kissfm.ro/drivetimehitsbyanamoga
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+80s+Hits&background=random&color=fff&size=128",Magic 80s Hits
-https://live.kissfm.ro/Magic-80s
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Headbangers+By+Soci&background=random&color=fff&size=128",Kiss - Headbangers By Soci
-https://live.kissfm.ro/headbangersbysoci
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+K&C+Drama+Soundtracks+by+Andreea+Berghea&background=random&color=fff&size=128",Kiss - K&C Drama Soundtracks by Andreea Berghea
-https://live.kissfm.ro/kandcdrama
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Lite&background=random&color=fff&size=128",Magic Lite
-https://live.kissfm.ro/magic.lite
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MFM+Dance+105.7&background=random&color=fff&size=128",MFM Dance 105.7
-https://ssl.radios.show/8012/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+KiMaRo+Radio&background=random&color=fff&size=128",Kiss - KiMaRo Radio
-https://live.kissfm.ro/kissfm.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Millenium+Hits&background=random&color=fff&size=128",Kiss - Kiss Millenium Hits
-https://live.kissfm.ro/milleniumhits
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Intuit+FM&background=random&color=fff&size=128",Intuit FM
+https://c20.radioboss.fm:8619/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Joyful+Radio&background=random&color=fff&size=128",Joyful Radio
 https://listen.radioking.com/radio/747262/stream/813904
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+&+Chill&background=random&color=fff&size=128",Kiss - Kiss & Chill
-https://live.kissfm.ro/kissnchill
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Korona+Rádió&background=random&color=fff&size=128",Korona Rádió
-https://s7.citrus3.com:8022/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+90s+Hits&background=random&color=fff&size=128",Magic 90s Hits
-https://live.kissfm.ro/Magic-90s
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Back+To+Work+by+Marian+Boba&background=random&color=fff&size=128",Kiss - Back To Work by Marian Boba
-https://live.kissfm.ro/backtoworkbyboba
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+My+Favourites+by+Andreea+Berghea&background=random&color=fff&size=128",Kiss - My Favourites by Andreea Berghea
-https://live.kissfm.ro/favoritesbyandreeaberghea
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+In+the+Mix&background=random&color=fff&size=128",Kiss - In the Mix
-https://live.kissfm.ro/kkm.radio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Bad+And+Boujee+24/7&background=random&color=fff&size=128",Kiss - Bad And Boujee 24/7
-https://live.kissfm.ro/badandboujee247
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Movie+Hits&background=random&color=fff&size=128",Magic Movie Hits
-https://dc.digi.live.kissfm.ro/magic-movies
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Drive+Home+Playlist+by+Boba&background=random&color=fff&size=128",Kiss - Drive Home Playlist by Boba
-https://live.kissfm.ro/drivehomebyboba
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Clean+The+House+Playlist+by+Cristi+Neacsu&background=random&color=fff&size=128",Kiss - Clean The House Playlist by Cristi Neacsu
-https://live.kissfm.ro/cleanthehousebycristineacsu
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Hits+from+the+10s&background=random&color=fff&size=128",Kiss - Kiss Hits from the 10s
-https://live.kissfm.ro/kiss.hits.from.the.10s
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Party+Mix&background=random&color=fff&size=128",Magic Party Mix
-https://live.kissfm.ro/magic.party.mix
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+RO+Shuffle&background=random&color=fff&size=128",Kiss - Kiss RO Shuffle
-https://live.kissfm.ro/kissroshuffle
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kids+By+Cristi+Nitzu&background=random&color=fff&size=128",Kiss - Kiss Kids By Cristi Nitzu
-https://live.kissfm.ro/kisskidsbynitzu
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Muzică&background=random&color=fff&size=128",RVE Muzică
-http://162.244.80.32:9470/;stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Afrokiss+By+NICO&background=random&color=fff&size=128",Kiss - Afrokiss By NICO
-https://live.kissfm.ro/afrokissbynico
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+4+Love&background=random&color=fff&size=128",Kiss - Kiss 4 Love
-https://live.kissfm.ro/kiss4love
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Marlene+Radio&background=random&color=fff&size=128",Marlene Radio
-https://live.gofm.ro:2000/stream/MARLENERADIO
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Favorites+By+Dimineața+de+Vară+cu+Boba+&+Lucia&background=random&color=fff&size=128",Kiss - Favorites By Dimineața de Vară cu Boba & Lucia
-https://live.kissfm.ro/favoritesbydimineatadevara
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+FM&background=random&color=fff&size=128",Magic FM
-https://live.magicfm.ro/magicfm.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Predici&background=random&color=fff&size=128",RVE Predici
-http://162.244.80.32:9468/;stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+International&background=random&color=fff&size=128",RVE International
-http://162.244.80.34:9648/;stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Oradea+92.1+FM&background=random&color=fff&size=128",RVE Oradea 92.1 FM
-http://162.244.80.32:6700/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jurnal+FM+92&background=random&color=fff&size=128",Jurnal FM 92
+https://ssl.radios.show:7009/stream/
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MDI+FM+88.1&background=random&color=fff&size=128",MDI FM 88.1
+http://stream.mdifm.ro:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MFM+Dance+105.7&background=random&color=fff&size=128",MFM Dance 105.7
+https://ssl.radios.show/8012/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mood+On+Music+#Deep&background=random&color=fff&size=128",Mood On Music #Deep
+https://ec2.yesstreaming.net:1810/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jazz+FM&background=random&color=fff&size=128",Jazz FM
+https://s4.radio.co/s1e25bf273/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Alt+FM&background=random&color=fff&size=128",Alt FM
 https://altfm.faur.cc/alt_fm_128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Gold+Hits&background=random&color=fff&size=128",Magic Gold Hits
 https://live.kissfm.ro/magic.gold.hits
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Headbangers+By+Soci&background=random&color=fff&size=128",Kiss - Headbangers By Soci
+https://live.kissfm.ro/headbangersbysoci
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+K&C+Drama+Soundtracks+by+Andreea+Berghea&background=random&color=fff&size=128",Kiss - K&C Drama Soundtracks by Andreea Berghea
+https://live.kissfm.ro/kandcdrama
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Hits+from+the+10s&background=random&color=fff&size=128",Kiss - Kiss Hits from the 10s
+https://live.kissfm.ro/kiss.hits.from.the.10s
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Afro+Vibes+Volume+II+by+Nico&background=random&color=fff&size=128",Kiss - Afro Vibes Volume II by Nico
+https://live.kissfm.ro/afrovibesbynico
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+FM&background=random&color=fff&size=128",Kiss FM
+https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Lite&background=random&color=fff&size=128",Magic Lite
+https://live.kissfm.ro/magic.lite
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kiss+in+the+Summer+by+DJ+Yaang&background=random&color=fff&size=128",Kiss - Kiss Kiss in the Summer by DJ Yaang
+https://live.kissfm.ro/kisskisssummer
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+My+Favourites+by+Andreea+Berghea&background=random&color=fff&size=128",Kiss - My Favourites by Andreea Berghea
+https://live.kissfm.ro/favoritesbyandreeaberghea
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+80s+Hits&background=random&color=fff&size=128",Magic 80s Hits
+https://live.kissfm.ro/Magic-80s
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+KiMaRo+Radio&background=random&color=fff&size=128",Kiss - KiMaRo Radio
+https://live.kissfm.ro/kissfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Back+To+Work+by+Marian+Boba&background=random&color=fff&size=128",Kiss - Back To Work by Marian Boba
+https://live.kissfm.ro/backtoworkbyboba
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Drive+Home+Playlist+by+Boba&background=random&color=fff&size=128",Kiss - Drive Home Playlist by Boba
+https://live.kissfm.ro/drivehomebyboba
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Drive+Time+Hits+by+Ana+Moga&background=random&color=fff&size=128",Kiss - Drive Time Hits by Ana Moga
+https://live.kissfm.ro/drivetimehitsbyanamoga
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+FM&background=random&color=fff&size=128",Magic FM
+https://live.magicfm.ro/magicfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Let's+DUET+By+Ciprian+Dinu&background=random&color=fff&size=128",Kiss - Let's DUET By Ciprian Dinu
 https://live.kissfm.ro/letsduetbycipriandinu
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Next+Radio&background=random&color=fff&size=128",Next Radio
-https://stream.nextradio.live/listen/nextradio/NextHD
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Urban&background=random&color=fff&size=128",Play Urban
-https://live.playradio.org:8443/UrbanHD
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+90s&background=random&color=fff&size=128",Play 90s
-https://live.playradio.org:8443/90HD
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Millenium+Hits&background=random&color=fff&size=128",Kiss - Kiss Millenium Hits
+https://live.kissfm.ro/milleniumhits
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Party+Mix&background=random&color=fff&size=128",Magic Party Mix
+https://live.kissfm.ro/magic.party.mix
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Radio+91.6+FM&background=random&color=fff&size=128",Play Radio 91.6 FM
 https://live.playradio.org:8443/FMHD
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+International&background=random&color=fff&size=128",RVE International
+http://162.244.80.34:9648/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+90s+Hits&background=random&color=fff&size=128",Magic 90s Hits
+https://live.kissfm.ro/Magic-90s
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Bad+And+Boujee+24/7&background=random&color=fff&size=128",Kiss - Bad And Boujee 24/7
+https://live.kissfm.ro/badandboujee247
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Clean+The+House+Playlist+by+Cristi+Neacsu&background=random&color=fff&size=128",Kiss - Clean The House Playlist by Cristi Neacsu
+https://live.kissfm.ro/cleanthehousebycristineacsu
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Korona+Rádió&background=random&color=fff&size=128",Korona Rádió
+https://s7.citrus3.com:8022/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Café&background=random&color=fff&size=128",Play Café
 https://live.playradio.org:8443/CafeHD
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+RO+Shuffle&background=random&color=fff&size=128",Kiss - Kiss RO Shuffle
+https://live.kissfm.ro/kissroshuffle
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Afrokiss+By+NICO&background=random&color=fff&size=128",Kiss - Afrokiss By NICO
+https://live.kissfm.ro/afrokissbynico
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+4+Love&background=random&color=fff&size=128",Kiss - Kiss 4 Love
+https://live.kissfm.ro/kiss4love
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Muzică&background=random&color=fff&size=128",RVE Muzică
+http://162.244.80.32:9470/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+90s&background=random&color=fff&size=128",Play 90s
+https://live.playradio.org:8443/90HD
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Favorites+By+Dimineața+de+Vară+cu+Boba+&+Lucia&background=random&color=fff&size=128",Kiss - Favorites By Dimineața de Vară cu Boba & Lucia
+https://live.kissfm.ro/favoritesbydimineatadevara
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+&+Chill&background=random&color=fff&size=128",Kiss - Kiss & Chill
+https://live.kissfm.ro/kissnchill
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Predici&background=random&color=fff&size=128",RVE Predici
+http://162.244.80.32:9468/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kids+By+Cristi+Nitzu&background=random&color=fff&size=128",Kiss - Kiss Kids By Cristi Nitzu
+https://live.kissfm.ro/kisskidsbynitzu
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+Movie+Hits&background=random&color=fff&size=128",Magic Movie Hits
+https://dc.digi.live.kissfm.ro/magic-movies
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Oradea+92.1+FM&background=random&color=fff&size=128",RVE Oradea 92.1 FM
+http://162.244.80.32:6700/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+In+the+Mix&background=random&color=fff&size=128",Kiss - In the Mix
+https://live.kissfm.ro/kkm.radio
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Marlene+Radio&background=random&color=fff&size=128",Marlene Radio
+https://live.gofm.ro:2000/stream/MARLENERADIO
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Next+Radio&background=random&color=fff&size=128",Next Radio
+https://stream.nextradio.live/listen/nextradio/NextHD
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MB+Music+Radio&background=random&color=fff&size=128",MB Music Radio
 https://s33.myradiostream.com/16150/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+A-Tentat&background=random&color=fff&size=128",Radio A-Tentat
-https://ssl.omegahost.ro/8066/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+1+Manele&background=random&color=fff&size=128",Radio 1 Manele
-https://ssl.omegahost.ro/8000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Color+90.3+FM&background=random&color=fff&size=128",Radio Color 90.3 FM
-https://radiocolor.radioca.st/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+AS+Petrecere+95.5+FM&background=random&color=fff&size=128",Radio AS Petrecere 95.5 FM
-http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVESV&background=random&color=fff&size=128",RVESV
 https://s9.yesstreaming.net:7014/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=One+FM+Romania&background=random&color=fff&size=128",One FM Romania
-https://live.onefm.ro:8443/onefm.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+AS+Tarnaveni+107.1+FM&background=random&color=fff&size=128",Radio AS Tarnaveni 107.1 FM
-http://195.225.143.222:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Cafe&background=random&color=fff&size=128",Radio Cafe
-https://live.radiocafe.ro:8443
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Crazy+Romania&background=random&color=fff&size=128",Radio Crazy Romania
-https://razvcarp1.radioca.st/;/;stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Bucuresti&background=random&color=fff&size=128",RVE Bucuresti
-https://streamer.radio.co/sb94ce6fe2/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+90+Hit&background=random&color=fff&size=128",Radio 90 Hit
-https://live.90hit.ro:8000/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Pro+Lider+FM+92.4&background=random&color=fff&size=128",Pro Lider FM 92.4
-http://liderfm.go.ro:8000/stream/1/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Brasov+FM+87.8&background=random&color=fff&size=128",Radio Brasov FM 87.8
-https://live.radiobrasov.ro/stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Coresi&background=random&color=fff&size=128",Radio Coresi
-https://audio-edge-3mayu.fra.h.radiomast.io/71b8dd5d-b3a4-4ee9-a477-1a585779899c
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Armonia&background=random&color=fff&size=128",Radio Armonia
-https://video.bluespot.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dobrogea&background=random&color=fff&size=128",Radio Dobrogea
-http://86.122.50.130:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jazz+FM&background=random&color=fff&size=128",Jazz FM
-https://s4.radio.co/s1e25bf273/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RFI+România&background=random&color=fff&size=128",RFI România
-https://asculta.radiorfi.ro/live.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+AS+Petrecere+95.5+FM&background=random&color=fff&size=128",Radio AS Petrecere 95.5 FM
+http://89.39.189.78:8001/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Power+FM+90.8&background=random&color=fff&size=128",Power FM 90.8
 https://powerfm.radioca.st/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Deep&background=random&color=fff&size=128",Radio Deep
-http://live.radiodeep.ro:7500/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FanFM-RO&background=random&color=fff&size=128",Radio FanFM-RO
-https://asculta.ascultatare.ro/clv/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Puls+FM+94.7&background=random&color=fff&size=128",Puls FM 94.7
-http://mxii.go.ro:8090/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FIX+99.8&background=random&color=fff&size=128",Radio FIX 99.8
-http://89.137.76.149:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Clasic+FM+90.9&background=random&color=fff&size=128",Radio Clasic FM 90.9
-https://live.radioclasic.com/listen/radio_clasic_fm/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Color+90.3+FM&background=random&color=fff&size=128",Radio Color 90.3 FM
+https://radiocolor.radioca.st/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RVE+Bucuresti&background=random&color=fff&size=128",RVE Bucuresti
+https://streamer.radio.co/sb94ce6fe2/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Brasov+FM+87.8&background=random&color=fff&size=128",Radio Brasov FM 87.8
+https://live.radiobrasov.ro/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Crazy+Romania&background=random&color=fff&size=128",Radio Crazy Romania
+https://razvcarp1.radioca.st/;/;stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RFI+România&background=random&color=fff&size=128",RFI România
+https://asculta.radiorfi.ro/live.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Coresi&background=random&color=fff&size=128",Radio Coresi
+https://audio-edge-3mayu.fra.h.radiomast.io/71b8dd5d-b3a4-4ee9-a477-1a585779899c
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Pro+Lider+FM+92.4&background=random&color=fff&size=128",Pro Lider FM 92.4
+http://liderfm.go.ro:8000/stream/1/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=One+FM+Romania&background=random&color=fff&size=128",One FM Romania
+https://live.onefm.ro:8443/onefm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Cafe&background=random&color=fff&size=128",Radio Cafe
+https://live.radiocafe.ro:8443
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+90+Hit&background=random&color=fff&size=128",Radio 90 Hit
+https://live.90hit.ro:8000/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Urban&background=random&color=fff&size=128",Play Urban
+https://live.playradio.org:8443/UrbanHD
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dobrogea&background=random&color=fff&size=128",Radio Dobrogea
+http://86.122.50.130:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Armonia&background=random&color=fff&size=128",Radio Armonia
+https://video.bluespot.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Flora+TM&background=random&color=fff&size=128",Radio Flora TM
 https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705149913
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Folclor&background=random&color=fff&size=128",Radio Folclor
-https://ssl.omegahost.ro:8092/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Delta+95.8+FM&background=random&color=fff&size=128",Radio Delta 95.8 FM
-https://mars.streamerr.co/8152/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+EMM+(eMaramureş)&background=random&color=fff&size=128",Radio EMM (eMaramureş)
-https://radio.emaramures.ro/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Clasic+FM+90.9&background=random&color=fff&size=128",Radio Clasic FM 90.9
+https://live.radioclasic.com/listen/radio_clasic_fm/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FanFM-RO&background=random&color=fff&size=128",Radio FanFM-RO
+https://asculta.ascultatare.ro/clv/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FIX+99.8&background=random&color=fff&size=128",Radio FIX 99.8
+http://89.137.76.149:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Deep&background=random&color=fff&size=128",Radio Deep
+http://live.radiodeep.ro:7500/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Fx+Net&background=random&color=fff&size=128",Radio Fx Net
+http://89.39.189.112:8458/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Eldad&background=random&color=fff&size=128",Radio Eldad
 https://c40.radioboss.fm:8170/eldad.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RPH+Radio+Prahova+99.2+FM&background=random&color=fff&size=128",RPH Radio Prahova 99.2 FM
 https://r2.mediastreaming.ro/listen/rph/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Chillescu&background=random&color=fff&size=128",Radio Chillescu
-https://stream.clever-host.ro/8014/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Fx+Net&background=random&color=fff&size=128",Radio Fx Net
-http://89.39.189.112:8458/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Hy+Braila&background=random&color=fff&size=128",Radio Hy Braila
-http://asculta.ascultatare.ro:8034/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doina+FM+94.7&background=random&color=fff&size=128",Radio Doina FM 94.7
-https://live.radiodoina.ro/radiodoina.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Blaj+FM+96.2&background=random&color=fff&size=128",Radio Blaj FM 96.2
-https://ssl.asculta.live:8016/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Cuvântul+Vieții&background=random&color=fff&size=128",Radio Cuvântul Vieții
 https://ssl.asculta.live:8288/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+EMM+(eMaramureş)&background=random&color=fff&size=128",Radio EMM (eMaramureş)
+https://radio.emaramures.ro/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Blaj+FM+96.2&background=random&color=fff&size=128",Radio Blaj FM 96.2
+https://ssl.asculta.live:8016/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=90s+3NeRgY&background=random&color=fff&size=128",90s 3NeRgY
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+HiT+FM+Petrecere&background=random&color=fff&size=128",Radio HiT FM Petrecere
-https://live.radiohitfm.net/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Folclor+Buzău&background=random&color=fff&size=128",Radio Folclor Buzău
 https://live.radiofolclorbuzaufm.ro:8910/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Live&background=random&color=fff&size=128",Radio Domeldo Live
-https://radiodomeldo.ro/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Iubire&background=random&color=fff&size=128",Radio Iubire
-http://89.39.189.24:7070/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Movie&background=random&color=fff&size=128",Radio Domeldo Movie
-https://radiodomeldo.ro/movie
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Lipova&background=random&color=fff&size=128",Radio Lipova
-http://asculta.radiolipova.ro:1717/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Planet+Funk&background=random&color=fff&size=128",Radio GMusic Planet Funk
-https://play.webradio-hosting.com:8036/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Hy+Braila&background=random&color=fff&size=128",Radio Hy Braila
+http://asculta.ascultatare.ro:8034/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+HiT+FM+Petrecere&background=random&color=fff&size=128",Radio HiT FM Petrecere
+https://live.radiohitfm.net/8989/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doina+FM+94.7&background=random&color=fff&size=128",Radio Doina FM 94.7
+https://live.radiodoina.ro/radiodoina.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Puls+FM+94.7&background=random&color=fff&size=128",Puls FM 94.7
+http://mxii.go.ro:8090/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Relax+Garden&background=random&color=fff&size=128",Radio GMusic Relax Garden
 https://play.webradio-hosting.com:8002/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Planet+Funk&background=random&color=fff&size=128",Radio GMusic Planet Funk
+https://play.webradio-hosting.com:8036/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Iubire&background=random&color=fff&size=128",Radio Iubire
+http://89.39.189.24:7070/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Live&background=random&color=fff&size=128",Radio Domeldo Live
+https://radiodomeldo.ro/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Movie&background=random&color=fff&size=128",Radio Domeldo Movie
+https://radiodomeldo.ro/movie
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Chillescu&background=random&color=fff&size=128",Radio Chillescu
+https://stream.clever-host.ro/8014/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Hit+Romania&background=random&color=fff&size=128",Radio Hit Romania
 http://live.radio-hit.ro:8500/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kiss+Mangalia+FM+(Pyranda)&background=random&color=fff&size=128",Radio Kiss Mangalia FM (Pyranda)
-http://live.adradio.ro:8894/128/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gangsta+Manele&background=random&color=fff&size=128",Radio Gangsta Manele
-http://asculta.radiogangsta.ro:8800/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Lipova&background=random&color=fff&size=128",Radio Lipova
+http://asculta.radiolipova.ro:1717/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+MusicTown&background=random&color=fff&size=128",Radio MusicTown
 http://musictown.crazydesign.biz:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
-http://86.123.160.19:8000/;;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oldies+Romania&background=random&color=fff&size=128",Radio Oldies Romania
-http://listen.radiooldies.ro:9200/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT+Popular&background=random&color=fff&size=128",Radio Mega-HiT Popular
-https://popular.radiomegahit.eu:9000/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT+Lounge&background=random&color=fff&size=128",Radio Mega-HiT Lounge
-https://lounge.radiomegahit.eu:8014/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mix+Craiova&background=random&color=fff&size=128",Radio Mix Craiova
-http://live.mixcraiova.ro:8241/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Mix&background=random&color=fff&size=128",Radio Pro Mix
-https://ssl.omegahost.ro:8102/;stream.nsv
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+MELODIA&background=random&color=fff&size=128",Radio MELODIA
-https://radio.sonicpanel.ro:8106/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gangsta+Dance&background=random&color=fff&size=128",Radio Gangsta Dance
-https://dance.radiogangsta.ro:8800/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-Hit+Chill&background=random&color=fff&size=128",Radio Mega-Hit Chill
-https://chill.radiomegahit.eu:8004/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+M+Plus+95.7&background=random&color=fff&size=128",Radio M Plus 95.7
-https://s4.ssl-stream.com/listen/radio_mplus_fm/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kiss+Mangalia+FM+(Pyranda)&background=random&color=fff&size=128",Radio Kiss Mangalia FM (Pyranda)
+http://live.adradio.ro:8894/128/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dada+FM+106.6&background=random&color=fff&size=128",Radio Dada FM 106.6
 https://live.laris.ro:8004/radiodada128.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
+http://86.123.160.19:8000/;;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT+Lounge&background=random&color=fff&size=128",Radio Mega-HiT Lounge
+https://lounge.radiomegahit.eu:8014/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT&background=random&color=fff&size=128",Radio Mega-HiT
 https://live.radiomegahit.eu:8080/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Noise+Rock&background=random&color=fff&size=128",Radio Noise Rock
-https://rocklive.radionoise.ro:9130/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Petrecăretzu&background=random&color=fff&size=128",Radio Petrecăretzu
-http://live.radiopetrecaretzu.ro:8383/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Radeni+FM&background=random&color=fff&size=128",Radio Radeni FM
-http://fanfmro.zapto.org:8585/live/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Orion+91.7+FM&background=random&color=fff&size=128",Radio Orion 91.7 FM
-https://sonic2-rbx.cloud-center.ro/8070/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oldies+Romania&background=random&color=fff&size=128",Radio Oldies Romania
+http://listen.radiooldies.ro:9200/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+MELODIA&background=random&color=fff&size=128",Radio MELODIA
+https://radio.sonicpanel.ro:8106/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Noise+HipHop&background=random&color=fff&size=128",Radio Noise HipHop
 https://hiphoplive.radionoise.ro:9110/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Noise+Rock&background=random&color=fff&size=128",Radio Noise Rock
+https://rocklive.radionoise.ro:9130/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mix+Craiova&background=random&color=fff&size=128",Radio Mix Craiova
+http://live.mixcraiova.ro:8241/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Noise+Romania&background=random&color=fff&size=128",Radio Noise Romania
 https://live.radionoise.ro:9100/stream/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Nova22&background=random&color=fff&size=128",Radio Nova22
-https://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gaga&background=random&color=fff&size=128",Radio Gaga
 http://rc.radiogaga.ro:8000/live?.mp3/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Nova22&background=random&color=fff&size=128",Radio Nova22
+https://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Manele&background=random&color=fff&size=128",Radio Pro Manele
 https://live.radiopromanele.com/8000/stream;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Radeni+FM&background=random&color=fff&size=128",Radio Radeni FM
+http://fanfmro.zapto.org:8585/live/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-Hit+Chill&background=random&color=fff&size=128",Radio Mega-Hit Chill
+https://chill.radiomegahit.eu:8004/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Orion+91.7+FM&background=random&color=fff&size=128",Radio Orion 91.7 FM
+https://sonic2-rbx.cloud-center.ro/8070/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+KPTV&background=random&color=fff&size=128",Radio KPTV
 https://de1.streamingpulse.com/ssl/KPTV
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Orion+FM+96.6&background=random&color=fff&size=128",Radio Orion FM 96.6
-https://cast.orionfm.ro/listen/orion/public.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mynele+Manele&background=random&color=fff&size=128",Radio Mynele Manele
 https://live.radiomynele.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Poema&background=random&color=fff&size=128",Radio Poema
 https://ssl.radios.show/8142/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT+Popular&background=random&color=fff&size=128",Radio Mega-HiT Popular
+https://popular.radiomegahit.eu:9000/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia+Antiohia&background=random&color=fff&size=128",Radio Filadelfia Antiohia
 https://live.radiofiladelfia.ro/antiohia_64.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Orion+FM+96.6&background=random&color=fff&size=128",Radio Orion FM 96.6
+https://cast.orionfm.ro/listen/orion/public.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+M+Plus+95.7&background=random&color=fff&size=128",Radio M Plus 95.7
+https://s4.ssl-stream.com/listen/radio_mplus_fm/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Master&background=random&color=fff&size=128",Radio Master
 https://mscp2.gazduireradio.ro:8080/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Popular&background=random&color=fff&size=128",Radio Romanian Popular
-https://asculta.radioromanian.net/popular
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Rock&background=random&color=fff&size=128",Radio Romanian Rock
-https://asculta.radioromanian.net/rock
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro-B&background=random&color=fff&size=128",Radio Pro-B
 https://live.radioprob.ro:8888/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Popular+România&background=random&color=fff&size=128",Radio Popular România
 https://livessl.radiopopular.ro:7777/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
-http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Dance&background=random&color=fff&size=128",Radio Romanian Dance
-https://asculta.radioromanian.net/dance
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Disco&background=random&color=fff&size=128",Radio Romanian Disco
-https://asculta.radioromanian.net/disco
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Stabil+Pitesti&background=random&color=fff&size=128",Radio Stabil Pitesti
-https://live.radiostabilpitesti.eu/9986/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Kids&background=random&color=fff&size=128",Radio Romanian Kids
 https://asculta.radioromanian.net/kids
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Hip-Hop&background=random&color=fff&size=128",Radio Romanian Hip-Hop
-https://asculta.radioromanian.net/hiphop
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Taraf+-+Etno&background=random&color=fff&size=128",Radio Taraf - Etno
-http://asculta.radiotaraf.com:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Manele&background=random&color=fff&size=128",Radio Romanian Manele
 https://asculta.radioromanian.net/manele
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Hip-Hop&background=random&color=fff&size=128",Radio Romanian Hip-Hop
+https://asculta.radioromanian.net/hiphop
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Popular&background=random&color=fff&size=128",Radio Romanian Popular
+https://asculta.radioromanian.net/popular
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Disco&background=random&color=fff&size=128",Radio Romanian Disco
+https://asculta.radioromanian.net/disco
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Colinde&background=random&color=fff&size=128",Radio Romanian Colinde
 https://asculta.radioromanian.net/colinde
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Dance&background=random&color=fff&size=128",Radio Romanian Dance
+https://asculta.radioromanian.net/dance
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romanian+Rock&background=random&color=fff&size=128",Radio Romanian Rock
+https://asculta.radioromanian.net/rock
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Taraf+-+Etno&background=random&color=fff&size=128",Radio Taraf - Etno
+http://asculta.radiotaraf.com:7100/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+ProDiaspora&background=random&color=fff&size=128",Radio ProDiaspora
+https://online.asculta.eu/listen/prodiaspora/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terranova&background=random&color=fff&size=128",Radio Terranova
 https://e20.yesstreaming.net:7410/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+100%+RO&background=random&color=fff&size=128",Radio Tequila 100% RO
-https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Taraf+-+Manele&background=random&color=fff&size=128",Radio Taraf - Manele
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kibuț&background=random&color=fff&size=128",Radio Kibuț
 https://www.radioking.com/play/radiokibut
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Regional&background=random&color=fff&size=128",Radio Regional
-https://stream.clever-host.ro/8008/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unu&background=random&color=fff&size=128",Radio Unu
-http://162.244.80.37:7560/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+TRIB&background=random&color=fff&size=128",Radio TRIB
-https://streams.radio.co/s78f983952/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Traditional+Manele&background=random&color=fff&size=128",Radio Traditional Manele
-https://radio.ascultatare.ro/7000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
-https://petrecere.radiotequila.ro/7000/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Radio+Hit&background=random&color=fff&size=128",Play Radio Hit
-https://stream.adradio.ro/8412
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+ProDiaspora&background=random&color=fff&size=128",Radio ProDiaspora
-https://online.asculta.eu/listen/prodiaspora/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Stabil+Pitesti&background=random&color=fff&size=128",Radio Stabil Pitesti
+https://live.radiostabilpitesti.eu/9986/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+OM+Bun&background=random&color=fff&size=128",Radio OM Bun
 https://www.radioking.com/play/radio-om-bun1
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Teatru+Radiofonic&background=random&color=fff&size=128",Radio Romantic Teatru Radiofonic
-https://radio-romantic.ro/meniu/teatru.php
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Top+104&background=random&color=fff&size=128",Radio Top 104
-https://live.radiotop.ro/radio/8000/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+USV&background=random&color=fff&size=128",Radio USV
-http://live2.usv.ro:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
+https://petrecere.radiotequila.ro/7000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+TRIB&background=random&color=fff&size=128",Radio TRIB
+https://streams.radio.co/s78f983952/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic&background=random&color=fff&size=128",Radio Romantic
 https://radio-romantic.ro/stream/?index.php.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unique&background=random&color=fff&size=128",Radio Unique
-https://listen.radiounique.ro/listen/radio_unique_romania/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Teatru+Radiofonic&background=random&color=fff&size=128",Radio Romantic Teatru Radiofonic
+https://radio-romantic.ro/meniu/teatru.php
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Regional&background=random&color=fff&size=128",Radio Regional
+https://stream.clever-host.ro/8008/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Traditional+Manele&background=random&color=fff&size=128",Radio Traditional Manele
+https://radio.ascultatare.ro/7000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Play+Radio+Hit&background=random&color=fff&size=128",Play Radio Hit
+https://stream.adradio.ro/8412
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unu&background=random&color=fff&size=128",Radio Unu
+http://162.244.80.37:7560/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia&background=random&color=fff&size=128",Radio Filadelfia
 https://asculta.radiofiladelfia.ro:7000/filadelfia_64.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zen&background=random&color=fff&size=128",Radio Zen
-https://streaming.shoutcast.com/radiozen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+X+Net+Manele&background=random&color=fff&size=128",Radio X Net Manele
-http://asculta.radioxnet.ro:8888/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia+Special&background=random&color=fff&size=128",Radio Filadelfia Special
+https://asculta.radiofiladelfia.ro:7000/special_64.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Star+90.2+FM&background=random&color=fff&size=128",Radio Star 90.2 FM
 https://ssl.asculta.live:8310/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Manele+Vechi&background=random&color=fff&size=128",Radio Romantic Manele Vechi
+https://radio-romantic.ro/meniu/manele.php
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Unda+Veselă&background=random&color=fff&size=128",Radio Romantic Unda Veselă
+https://radio-romantic.ro/meniu/umor.php/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Populară&background=random&color=fff&size=128",Radio Romantic Populară
+https://radio-romantic.ro/meniu/populara.php
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Top+104&background=random&color=fff&size=128",Radio Top 104
+https://live.radiotop.ro/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Trinitas+88.5&background=random&color=fff&size=128",Radio Trinitas 88.5
 https://live.radiotrinitas.ro:8003/;stream.nsv
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+USV&background=random&color=fff&size=128",Radio USV
+http://live2.usv.ro:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+TukTuk&background=random&color=fff&size=128",Radio TukTuk
+https://servidor38-3.brlogic.com:7206/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Vestea+Bună&background=random&color=fff&size=128",Radio Vestea Bună
 https://c28.radioboss.fm:18175/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Turda+107.7+FM&background=random&color=fff&size=128",Radio Turda 107.7 FM
 https://live.aftech.ro/listen/radio_turda/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+Koko+Marosvásárhely&background=random&color=fff&size=128",Rádió Koko Marosvásárhely
-https://az10.yesstreaming.net:8210/radiokoko.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sky+FM+101.1&background=random&color=fff&size=128",Sky FM 101.1
-http://89.43.138.116:8000/radiosky.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+TukTuk&background=random&color=fff&size=128",Radio TukTuk
-https://servidor38-3.brlogic.com:7206/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Roman+FM+94.2&background=random&color=fff&size=128",Roman FM 94.2
-https://live.romanfm.ro:8000/;rfm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rockradio.ro&background=random&color=fff&size=128",Rockradio.ro
-https://online.webcastradio.ro/rock-u.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia+Special&background=random&color=fff&size=128",Radio Filadelfia Special
-https://asculta.radiofiladelfia.ro:7000/special_64.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Vip+FM&background=random&color=fff&size=128",Radio Vip FM
-https://live1.radiovip.ro/8969/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unique&background=random&color=fff&size=128",Radio Unique
+https://listen.radiounique.ro/listen/radio_unique_romania/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Wish&background=random&color=fff&size=128",Radio Wish
 https://s101.radiolize.com/radio/8050/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zen&background=random&color=fff&size=128",Radio Zen
+https://streaming.shoutcast.com/radiozen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Vip+FM&background=random&color=fff&size=128",Radio Vip FM
+https://live1.radiovip.ro/8969/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Music+90s&background=random&color=fff&size=128",Radio Pro Music 90s
+https://stream.adradio.ro/8414
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+Koko+Marosvásárhely&background=random&color=fff&size=128",Rádió Koko Marosvásárhely
+https://az10.yesstreaming.net:8210/radiokoko.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rockradio.ro&background=random&color=fff&size=128",Rockradio.ro
+https://online.webcastradio.ro/rock-u.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Roman+FM+94.2&background=random&color=fff&size=128",Roman FM 94.2
+https://live.romanfm.ro:8000/;rfm
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+FM+Romania&background=random&color=fff&size=128",Rock FM Romania
+https://live.rockfm.ro/rockfm.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zalău&background=random&color=fff&size=128",Radio Zalău
+https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sky+FM+101.1&background=random&color=fff&size=128",Sky FM 101.1
+http://89.43.138.116:8000/radiosky.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+FM+Hard+Rock&background=random&color=fff&size=128",Rock FM Hard Rock
 https://live.kissfm.ro/hard.rock
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+FM+Blues&background=random&color=fff&size=128",Rock FM Blues
@@ -445,67 +427,55 @@ https://live.kissfm.ro/blues
 https://live.kissfm.ro/ballads.rock
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+80s+&+90s&background=random&color=fff&size=128",Rock 80s & 90s
 https://live.kissfm.ro/rock.8090
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Régió+Rádió&background=random&color=fff&size=128",Régió Rádió
-https://stream.regioradio.info:8000/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+FM+Romania&background=random&color=fff&size=128",Rock FM Romania
-https://live.rockfm.ro/rockfm.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zalău&background=random&color=fff&size=128",Radio Zalău
-https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SUP+Radio&background=random&color=fff&size=128",SUP Radio
-https://sup.umfst.ro:8000/live.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Populară&background=random&color=fff&size=128",Radio Romantic Populară
-https://radio-romantic.ro/meniu/populara.php
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Stil+FM+106.1&background=random&color=fff&size=128",Stil FM 106.1
-http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Star+Radio&background=random&color=fff&size=128",Star Radio
-https://online.webcastradio.ro/star
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
-https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Star+FM+90.1&background=random&color=fff&size=128",Star FM 90.1
 https://s6.myradiostream.com/47330/listen.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Star+Radio&background=random&color=fff&size=128",Star Radio
+https://online.webcastradio.ro/star
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Stil+FM+106.1&background=random&color=fff&size=128",Stil FM 106.1
+http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
+https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SpaceFM+Retro&background=random&color=fff&size=128",SpaceFM Retro
 https://retro.spacefm.live/listen/spacefm_retro/retro128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Super+FM+93.8&background=random&color=fff&size=128",Super FM 93.8
 https://live.superfm.ro/stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Unda+Veselă&background=random&color=fff&size=128",Radio Romantic Unda Veselă
-https://radio-romantic.ro/meniu/umor.php/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sweet+FM+95.9&background=random&color=fff&size=128",Sweet FM 95.9
-https://live.gofm.ro:2000/stream/SWEET/stream.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=We+Radio+91+FM&background=random&color=fff&size=128",We Radio 91 FM
-http://ado1.weradio.ro:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Manele+Vechi&background=random&color=fff&size=128",Radio Romantic Manele Vechi
-https://radio-romantic.ro/meniu/manele.php
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Music+90s&background=random&color=fff&size=128",Radio Pro Music 90s
-https://stream.adradio.ro/8414
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Urbansunsets&background=random&color=fff&size=128",Urbansunsets
-https://stream.radio.co/sedf8bacc9/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=YOU+FM+Romania&background=random&color=fff&size=128",YOU FM Romania
-https://sonic2-rbx.cloud-center.ro/8034/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+GaGa&background=random&color=fff&size=128",Rádió GaGa
-http://rc.radiogaga.ro:8000/mp3-256
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Vocea+Sperantei+FM+94.2&background=random&color=fff&size=128",Vocea Sperantei FM 94.2
-https://live.rvs.ro/play
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Terra+FM&background=random&color=fff&size=128",Terra FM
-https://stream.terrafm.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Supersonic+Radio&background=random&color=fff&size=128",Supersonic Radio
 https://s5.radio.co/s08e5c5875/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=West+City+Radio+FM+88.8&background=random&color=fff&size=128",West City Radio FM 88.8
-https://live.westcityradio.ro:8443/aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=radio+SOMEȘ&background=random&color=fff&size=128",radio SOMEȘ
-https://radio.mediacp.eu/stream/radiosomes
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Régió+Rádió&background=random&color=fff&size=128",Régió Rádió
+https://stream.regioradio.info:8000/radio.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SUP+Radio&background=random&color=fff&size=128",SUP Radio
+https://sup.umfst.ro:8000/live.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+GaGa&background=random&color=fff&size=128",Rádió GaGa
+http://rc.radiogaga.ro:8000/mp3-256
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Super+FM+88.2&background=random&color=fff&size=128",Super FM 88.2
 https://ssl.asculta.live:8308/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=transilvania.online&background=random&color=fff&size=128",transilvania.online
-https://s2.radio.co/sce9d4eadd/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Whiteheaven+Radio&background=random&color=fff&size=128",Whiteheaven Radio
-https://asculta.whiteheaven.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Piatra+Neamț+94.7+FM&background=random&color=fff&size=128",Viva FM Piatra Neamț 94.7 FM
-https://cloud.radiosonicpanel.ro/8008/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Iasi&background=random&color=fff&size=128",Viva FM Iasi
-https://cloud.radiosonicpanel.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sweet+FM+95.9&background=random&color=fff&size=128",Sweet FM 95.9
+https://live.gofm.ro:2000/stream/SWEET/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Terra+FM&background=random&color=fff&size=128",Terra FM
+https://stream.terrafm.ro/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=We+Radio+91+FM&background=random&color=fff&size=128",We Radio 91 FM
+http://ado1.weradio.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Szépvíz+FM+101.7&background=random&color=fff&size=128",Szépvíz FM 101.7
 https://szepvizfm.ro:8000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Vocea+Sperantei+FM+94.2&background=random&color=fff&size=128",Vocea Sperantei FM 94.2
+https://live.rvs.ro/play
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=YOU+FM+Romania&background=random&color=fff&size=128",YOU FM Romania
+https://sonic2-rbx.cloud-center.ro/8034/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Iasi&background=random&color=fff&size=128",Viva FM Iasi
+https://cloud.radiosonicpanel.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Piatra+Neamț+94.7+FM&background=random&color=fff&size=128",Viva FM Piatra Neamț 94.7 FM
+https://cloud.radiosonicpanel.ro/8008/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Urbansunsets&background=random&color=fff&size=128",Urbansunsets
+https://stream.radio.co/sedf8bacc9/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=West+City+Radio+FM+88.8&background=random&color=fff&size=128",West City Radio FM 88.8
+https://live.westcityradio.ro:8443/aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=transilvania.online&background=random&color=fff&size=128",transilvania.online
+https://s2.radio.co/sce9d4eadd/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Botoșani&background=random&color=fff&size=128",Viva FM Botoșani
 https://cloud.radiosonicpanel.ro:8006/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Whiteheaven+Radio&background=random&color=fff&size=128",Whiteheaven Radio
+https://asculta.whiteheaven.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Viva+FM+Suceava&background=random&color=fff&size=128",Viva FM Suceava
 https://cloud.radiosonicpanel.ro:8004/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=radio+SOMEȘ&background=random&color=fff&size=128",radio SOMEȘ
+https://radio.mediacp.eu/stream/radiosomes
