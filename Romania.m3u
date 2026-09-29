@@ -17,8 +17,6 @@ https://altfm.faur.cc/alt_fm_128
 https://s3.myradiostream.com/7022/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Banat+FM+101.2&background=random&color=fff&size=128",Banat FM 101.2
 https://cast.banatfm.ro/listen/banat_fm/live.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Barikada+Radio+Station&background=random&color=fff&size=128",Barikada Radio Station
-https://live.radiobarikada.ro:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Big+FM&background=random&color=fff&size=128",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bistrita+FM+92.6&background=random&color=fff&size=128",Bistrita FM 92.6
@@ -121,6 +119,8 @@ https://hello.citrus3.com:2020/stream/focsnews
 http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Fun+FM+87.6&background=random&color=fff&size=128",Fun FM 87.6
 http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=G1+Radio+Dance+90's+Hits&background=random&color=fff&size=128",G1 Radio Dance 90's Hits
+https://radiodreams.g1.ro:3399/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=GerlaFM&background=random&color=fff&size=128",GerlaFM
 http://89.39.189.70:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Gherla+FM&background=random&color=fff&size=128",Gherla FM
