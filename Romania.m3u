@@ -113,6 +113,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Petrecere&background=random&color=fff&size=128",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
@@ -445,8 +447,6 @@ http://live.adradio.ro:8894/128/;
 http://asculta.radiolipova.ro:1717/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+M+Plus+95.7&background=random&color=fff&size=128",Radio M Plus 95.7
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+MELODIA&background=random&color=fff&size=128",Radio MELODIA
-https://radio.sonicpanel.ro:8106/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Maria+România&background=random&color=fff&size=128",Radio Maria România
 https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Master&background=random&color=fff&size=128",Radio Master
