@@ -17,6 +17,8 @@ https://altfm.faur.cc/alt_fm_128
 https://s3.myradiostream.com/7022/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Banat+FM+101.2&background=random&color=fff&size=128",Banat FM 101.2
 https://cast.banatfm.ro/listen/banat_fm/live.aacp
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Barikada+Radio+Station&background=random&color=fff&size=128",Barikada Radio Station
+https://live.radiobarikada.ro:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Big+FM&background=random&color=fff&size=128",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bistrita+FM+92.6&background=random&color=fff&size=128",Bistrita FM 92.6
@@ -107,14 +109,10 @@ https://stream.zeno.fm/ehbuv5erws8uv
 https://efm.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Erdélyi+Magyar+Rádió&background=random&color=fff&size=128",Erdélyi Magyar Rádió
 https://adas.erdelyimagyarradio.eu:8443/emr
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Europa+FM&background=random&color=fff&size=128",Europa FM
-https://astreaming.edi.ro:8443/EuropaFM_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Eveniment+FM+103.2&background=random&color=fff&size=128",Eveniment FM 103.2
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Petrecere&background=random&color=fff&size=128",FM Radio Manele - Petrecere
-https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
@@ -587,8 +585,6 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+100%+RO&background=random&color=fff&size=128",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Dance&background=random&color=fff&size=128",Radio Tequila Dance
-https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
@@ -629,8 +625,6 @@ https://servidor38-3.brlogic.com:7206/live
 https://live.aftech.ro/listen/radio_turda/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Târgu+Jiu+97.8+FM&background=random&color=fff&size=128",Radio Târgu Jiu 97.8 FM
 https://stream.radiotargujiu.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+USV&background=random&color=fff&size=128",Radio USV
-http://live2.usv.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unique&background=random&color=fff&size=128",Radio Unique
 https://listen.radiounique.ro/listen/radio_unique_romania/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unu&background=random&color=fff&size=128",Radio Unu
@@ -779,6 +773,8 @@ https://szepvizfm.ro:8000/;
 https://stream.terrafm.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Timisoara+FM+105.9&background=random&color=fff&size=128",Timisoara FM 105.9
 https://stream4.srr.ro:8443/timisoara-fm
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=UBB+Radio&background=random&color=fff&size=128",UBB Radio
+http://stream.radio.ubbcluj.ro:8000/ubb.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Upit+Radio&background=random&color=fff&size=128",Upit Radio
 https://cupitradio.duckdns.org:4443/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Urban+FM+92.7&background=random&color=fff&size=128",Urban FM 92.7
