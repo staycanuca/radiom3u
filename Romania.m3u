@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+București+FM+98.3&background=random&color=fff&size=128",Radio București FM 98.3
-https://stream4.srr.ro:8443/bucuresti-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=5FM+(Five+FM)&background=random&color=fff&size=128",5FM (Five FM)
 https://c22.radioboss.fm:8700/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=90s+3NeRgY&background=random&color=fff&size=128",90s 3NeRgY
@@ -81,10 +79,6 @@ https://azura.ebsmedia.ro/radio/8110/dolcevita320.aac
 https://azura.ebsmedia.ro/radio/8040/electro320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Fresco&background=random&color=fff&size=128",EBS Fresco
 https://azura.ebsmedia.ro/radio/8120/fresco320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Jazz&background=random&color=fff&size=128",EBS Jazz
-https://azura.ebsmedia.ro/radio/8030/jazz320.aac
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Local&background=random&color=fff&size=128",EBS Local
-https://azura.ebsmedia.ro/radio/8060/local320.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Lounge&background=random&color=fff&size=128",EBS Lounge
 https://azura.ebsmedia.ro/listen/lounge/lounge128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+Magyar+Zene&background=random&color=fff&size=128",EBS Magyar Zene
@@ -323,6 +317,8 @@ https://pro.radiobandit.ro/listen/bandit90/radio.mp3
 https://ssl.asculta.live:8016/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Brasov+FM+87.8&background=random&color=fff&size=128",Radio Brasov FM 87.8
 https://live.radiobrasov.ro/stream.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+București+FM+98.3&background=random&color=fff&size=128",Radio București FM 98.3
+https://stream4.srr.ro:8443/bucuresti-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+CFM+92.9&background=random&color=fff&size=128",Radio CFM 92.9
 https://stream2.radiocfm.ro:8443/CFM
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Cafe&background=random&color=fff&size=128",Radio Cafe
@@ -565,8 +561,6 @@ https://stream4.srr.ro:8443/romania-rri3
 https://stream4.srr.ro:8443/radio-resita
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+România+Târgu+Mureș&background=random&color=fff&size=128",Radio România Târgu Mureș
 https://stream4.srr.ro:8443/radio-tgmures-fm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+SOS&background=random&color=fff&size=128",Radio SOS
-http://5.2.180.231:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Sighet+AM+1404&background=random&color=fff&size=128",Radio Sighet AM 1404
 http://89.238.227.6:8390/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Son+FM+89.5&background=random&color=fff&size=128",Radio Son FM 89.5
@@ -587,6 +581,8 @@ http://asculta.radiotaraf.ro:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terra&background=random&color=fff&size=128",Radio Terra
