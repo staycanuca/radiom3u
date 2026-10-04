@@ -82,7 +82,7 @@ http://89.40.72.71:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Fun+FM+87.6&background=random&color=fff&size=128",Fun FM 87.6
 http://online.funfm.ro:8000/funfm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=G1+Radio+Dance+90's+Hits&background=random&color=fff&size=128",G1 Radio Dance 90's Hits
-https://radiodreams.g1.ro:3399/stream
+https://radiodreams.g1.ro:3399/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=GerlaFM&background=random&color=fff&size=128",GerlaFM
 http://89.39.189.70:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Gherla+FM&background=random&color=fff&size=128",Gherla FM
@@ -271,8 +271,6 @@ https://radioarad.arad1.ro:8443/radio-arad
 https://stream4.srr.ro:8443/arad-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Armonia&background=random&color=fff&size=128",Radio Armonia
 https://video.bluespot.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Balada+Bistrita+FM+89.3&background=random&color=fff&size=128",Radio Balada Bistrita FM 89.3
-http://94.52.142.229:85/broadwave.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Banat+Link+93.3+FM&background=random&color=fff&size=128",Radio Banat Link 93.3 FM
 https://banatlink.go.ro:8080
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Bandit&background=random&color=fff&size=128",Radio Bandit
@@ -679,20 +677,12 @@ https://web.smartradio.ro:8443/smartnroll
 https://web.smartradio.ro:8443/smartaltro
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+And+Groovy&background=random&color=fff&size=128",Smart And Groovy
 https://web.smartradio.ro:8443/smartgroovy
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Auto+Total&background=random&color=fff&size=128",Smart Auto Total
-https://web.smartradio.ro:8443/smartautototal
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Champs-Elysees&background=random&color=fff&size=128",Smart Champs-Elysees
 https://web.smartradio.ro:8443/smartchampselysees
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Christmas&background=random&color=fff&size=128",Smart Christmas
-https://web.smartradio.ro:8443/smartforchristmas
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+FM+107.3&background=random&color=fff&size=128",Smart FM 107.3
 http://live.smartradio.ro:9128/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+In+Lounge&background=random&color=fff&size=128",Smart In Lounge
 https://web.smartradio.ro:8443/smartlounge
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Move&background=random&color=fff&size=128",Smart Move
-https://web.smartradio.ro:8443/smartmove
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+On+Soundtrack&background=random&color=fff&size=128",Smart On Soundtrack
-https://web.smartradio.ro:8443/smartsoundtrack
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+On+Trend&background=random&color=fff&size=128",Smart On Trend
 https://web.smartradio.ro:8443/smartontrend
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Oxford+Street&background=random&color=fff&size=128",Smart Oxford Street
@@ -701,8 +691,6 @@ https://web.smartradio.ro:8443/smartoxfordstreet
 https://web.smartradio.ro:8443/smartrave
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Street&background=random&color=fff&size=128",Smart Street
 https://web.smartradio.ro:8443/smartstreet
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Sunset+Boulevard&background=random&color=fff&size=128",Smart Sunset Boulevard
-https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+The+Fusion&background=random&color=fff&size=128",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Social+FM+96.9&background=random&color=fff&size=128",Social FM 96.9
