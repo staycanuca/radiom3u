@@ -71,6 +71,8 @@ https://stream.zeno.fm/ehbuv5erws8uv
 https://efm.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Erdélyi+Magyar+Rádió&background=random&color=fff&size=128",Erdélyi Magyar Rádió
 https://adas.erdelyimagyarradio.eu:8443/emr
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Europa+FM&background=random&color=fff&size=128",Europa FM
+https://astreaming.edi.ro:8443/EuropaFM_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Eveniment+FM+103.2&background=random&color=fff&size=128",Eveniment FM 103.2
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
@@ -103,8 +105,6 @@ http://86.127.68.115:18000/infinit64.ogg
 https://c20.radioboss.fm:8619/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Itsy+Bitsy+FM&background=random&color=fff&size=128",Itsy Bitsy FM
 http://live.itsybitsy.ro:8000/itsybitsy
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jazz+FM&background=random&color=fff&size=128",Jazz FM
-https://s4.radio.co/s1e25bf273/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Joyful+Radio&background=random&color=fff&size=128",Joyful Radio
 https://listen.radioking.com/radio/747262/stream/813904
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Jurnal+FM+92&background=random&color=fff&size=128",Jurnal FM 92
@@ -671,28 +671,8 @@ https://stream.sepsiradio.ro:8001/SepsiRadio
 https://bluz.ro/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sky+FM+101.1&background=random&color=fff&size=128",Sky FM 101.1
 http://89.43.138.116:8000/radiosky.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+'N'+Roll&background=random&color=fff&size=128",Smart 'N' Roll
-https://web.smartradio.ro:8443/smartnroll
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+AltRo&background=random&color=fff&size=128",Smart AltRo
-https://web.smartradio.ro:8443/smartaltro
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+And+Groovy&background=random&color=fff&size=128",Smart And Groovy
-https://web.smartradio.ro:8443/smartgroovy
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Champs-Elysees&background=random&color=fff&size=128",Smart Champs-Elysees
-https://web.smartradio.ro:8443/smartchampselysees
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+FM+107.3&background=random&color=fff&size=128",Smart FM 107.3
 http://live.smartradio.ro:9128/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+In+Lounge&background=random&color=fff&size=128",Smart In Lounge
-https://web.smartradio.ro:8443/smartlounge
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+On+Trend&background=random&color=fff&size=128",Smart On Trend
-https://web.smartradio.ro:8443/smartontrend
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Oxford+Street&background=random&color=fff&size=128",Smart Oxford Street
-https://web.smartradio.ro:8443/smartoxfordstreet
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Rave&background=random&color=fff&size=128",Smart Rave
-https://web.smartradio.ro:8443/smartrave
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+Street&background=random&color=fff&size=128",Smart Street
-https://web.smartradio.ro:8443/smartstreet
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+The+Fusion&background=random&color=fff&size=128",Smart The Fusion
-https://web.smartradio.ro:8443/smartfusion
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Social+FM+96.9&background=random&color=fff&size=128",Social FM 96.9
 https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
