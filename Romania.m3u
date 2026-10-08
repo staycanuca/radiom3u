@@ -141,8 +141,6 @@ https://live.kissfm.ro/kissfm.aacp
 https://live.kissfm.ro/kissnchill
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+4+Love&background=random&color=fff&size=128",Kiss - Kiss 4 Love
 https://live.kissfm.ro/kiss4love
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Hits+from+the+10s&background=random&color=fff&size=128",Kiss - Kiss Hits from the 10s
-https://live.kissfm.ro/kiss.hits.from.the.10s
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kids+By+Cristi+Nitzu&background=random&color=fff&size=128",Kiss - Kiss Kids By Cristi Nitzu
 https://live.kissfm.ro/kisskidsbynitzu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kiss+-+Kiss+Kiss+in+the+Summer+by+DJ+Yaang&background=random&color=fff&size=128",Kiss - Kiss Kiss in the Summer by DJ Yaang
@@ -379,8 +377,6 @@ https://s9.webradio-hosting.com/proxy/rgmrock/stream
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Trap&background=random&color=fff&size=128",Radio GMusic Trap
 https://s9.webradio-hosting.com/proxy/rgmtrap/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gaga&background=random&color=fff&size=128",Radio Gaga
-http://rc.radiogaga.ro:8000/live?.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Galaxy+100.6+FM&background=random&color=fff&size=128",Radio Galaxy 100.6 FM
 http://185.128.240.236:8000/galaxy
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gangsta+Dance&background=random&color=fff&size=128",Radio Gangsta Dance
@@ -475,8 +471,6 @@ http://fanfmro.zapto.org:8585/live/;
 https://stream.clever-host.ro/8008/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Reintregirea&background=random&color=fff&size=128",Radio Reintregirea
 http://5.2.168.107:8000/live.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Renașterea&background=random&color=fff&size=128",Radio Renașterea
-https://cast1.asurahosting.com/proxy/arhiepis/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romance+21&background=random&color=fff&size=128",Radio Romance 21
 https://stream.rcast.net/200392
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romania+Junior&background=random&color=fff&size=128",Radio Romania Junior
@@ -657,8 +651,6 @@ https://listen.rocknowradio.ro/
 https://online.webcastradio.ro/rock-u.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Roman+FM+94.2&background=random&color=fff&size=128",Roman FM 94.2
 https://live.romanfm.ro:8000/;rfm
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+GaGa&background=random&color=fff&size=128",Rádió GaGa
-http://rc.radiogaga.ro:8000/mp3-256
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rádió+Koko+Marosvásárhely&background=random&color=fff&size=128",Rádió Koko Marosvásárhely
 https://az10.yesstreaming.net:8210/radiokoko.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Régió+Rádió&background=random&color=fff&size=128",Régió Rádió
