@@ -29,6 +29,8 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Buzz+FM+87.9&background=random&color=fff&size=128",Buzz FM 87.9
+https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Etno&background=random&color=fff&size=128",Capital FM Etno
@@ -77,6 +79,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Manele&background=random&color=fff&size=128",FM Radio Manele - Manele
+https://ssl.servereradio.ro/8054/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
@@ -437,8 +441,6 @@ https://live.radionoise.ro:9100/stream/;
 https://s2.myradiostream.com:4520/listen.m4a/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+OM+Bun&background=random&color=fff&size=128",Radio OM Bun
 https://www.radioking.com/play/radio-om-bun1
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
-http://86.123.160.19:8000/;;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oldies+Romania&background=random&color=fff&size=128",Radio Oldies Romania
 http://listen.radiooldies.ro:9200/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oltenia+102.9+FM&background=random&color=fff&size=128",Radio Oltenia 102.9 FM
@@ -683,8 +685,6 @@ https://retro.spacefm.live/listen/spacefm_retro/retro128
 https://s6.myradiostream.com/47330/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Star+Radio&background=random&color=fff&size=128",Star Radio
 https://online.webcastradio.ro/star
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Stil+FM+106.1&background=random&color=fff&size=128",Stil FM 106.1
-http://92.180.18.201:8000//index.html?sid=1/;?type=http&nocache=45092
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Stil+FM+Radio&background=random&color=fff&size=128",Stil FM Radio
 http://5.2.233.147:8000/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Super+FM+88.2&background=random&color=fff&size=128",Super FM 88.2
