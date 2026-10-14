@@ -29,6 +29,8 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Buzz+FM+87.9&background=random&color=fff&size=128",Buzz FM 87.9
+https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Etno&background=random&color=fff&size=128",Capital FM Etno
@@ -165,8 +167,6 @@ https://s7.citrus3.com:8022/stream
 https://arlandria.go.ro:7443/lounge
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MB+Music+Radio&background=random&color=fff&size=128",MB Music Radio
 https://s33.myradiostream.com/16150/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MDI+FM+88.1&background=random&color=fff&size=128",MDI FM 88.1
-http://stream.mdifm.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MFM+Dance+105.7&background=random&color=fff&size=128",MFM Dance 105.7
 https://ssl.radios.show/8012/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Magic+80s+Hits&background=random&color=fff&size=128",Magic 80s Hits
@@ -187,8 +187,6 @@ https://live.kissfm.ro/magic.party.mix
 https://live.gofm.ro:2000/stream/MARLENERADIO
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Marosvásárhelyi+Rádió+FM+106.8&background=random&color=fff&size=128",Marosvásárhelyi Rádió FM 106.8
 https://stream4.srr.ro:8443/radio-tgmures-mag
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Metronom+FM&background=random&color=fff&size=128",Metronom FM
-http://metronom-fm.ro:8000/stream.ogg
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mood+On+Music+#Deep&background=random&color=fff&size=128",Mood On Music #Deep
 https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Muscel+FM+94.1&background=random&color=fff&size=128",Muscel FM 94.1
@@ -353,6 +351,8 @@ https://asculta.radiofiladelfia.ro:7000/filadelfia_64.aac
 https://live.radiofiladelfia.ro/antiohia_64.aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia+Special&background=random&color=fff&size=128",Radio Filadelfia Special
 https://asculta.radiofiladelfia.ro:7000/special_64.aac
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Flacăra+Rusaliilor&background=random&color=fff&size=128",Radio Flacăra Rusaliilor
+https://stream.radio-flacararusaliilor.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Flora+TM&background=random&color=fff&size=128",Radio Flora TM
 https://usa10.fastcast4u.com:9520/;?type=http&nocache=1705149913
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Folclor&background=random&color=fff&size=128",Radio Folclor
