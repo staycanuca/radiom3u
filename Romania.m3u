@@ -187,6 +187,8 @@ https://live.kissfm.ro/magic.party.mix
 https://live.gofm.ro:2000/stream/MARLENERADIO
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Marosvásárhelyi+Rádió+FM+106.8&background=random&color=fff&size=128",Marosvásárhelyi Rádió FM 106.8
 https://stream4.srr.ro:8443/radio-tgmures-mag
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Metronom+FM&background=random&color=fff&size=128",Metronom FM
+http://metronom-fm.ro:8000/stream.ogg
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mood+On+Music+#Deep&background=random&color=fff&size=128",Mood On Music #Deep
 https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Muscel+FM+94.1&background=random&color=fff&size=128",Muscel FM 94.1
@@ -313,12 +315,12 @@ https://ssl.asculta.live:8288/stream/;
 https://stream.radiojar.com/du8khw2d2wzuv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+DEEA&background=random&color=fff&size=128",Radio DEEA
 https://radiocdn.nxthost.com/radio-deea
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+DEEP+Romania&background=random&color=fff&size=128",Radio DEEP Romania
+https://stream.radiojar.com/8q8770pucfhvv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dada+FM+106.6&background=random&color=fff&size=128",Radio Dada FM 106.6
 https://live.laris.ro:8004/radiodada128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Damici+FM&background=random&color=fff&size=128",Radio Damici FM
 https://fwd.autopo.st/Damici
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Deep&background=random&color=fff&size=128",Radio Deep
-http://live.radiodeep.ro:7500/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Delta+95.8+FM&background=random&color=fff&size=128",Radio Delta 95.8 FM
 https://mars.streamerr.co/8152/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dobrogea&background=random&color=fff&size=128",Radio Dobrogea
