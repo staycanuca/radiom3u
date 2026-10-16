@@ -43,8 +43,6 @@ https://edge126.rcs-rds.ro/profm/chillfm.mp3
 https://mscp5.gazduireradio.ro:1270/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=City+Rádió&background=random&color=fff&size=128",City Rádió
 https://mscp1.gazduireradio.ro/cityradio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=ClubMix+Radio&background=random&color=fff&size=128",ClubMix Radio
-https://live.mikeriverra.com:9999/320mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Cross+One+Radio&background=random&color=fff&size=128",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DJ+Radio+Romania&background=random&color=fff&size=128",DJ Radio Romania
