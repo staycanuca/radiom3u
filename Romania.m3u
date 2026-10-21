@@ -29,6 +29,8 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Buzz+FM+87.9&background=random&color=fff&size=128",Buzz FM 87.9
+https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Etno&background=random&color=fff&size=128",Capital FM Etno
@@ -259,6 +261,8 @@ https://ssl.omegahost.ro/8066/stream
 http://86.123.70.144:8000/sample128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+AS+Petrecere+95.5+FM&background=random&color=fff&size=128",Radio AS Petrecere 95.5 FM
 http://89.39.189.78:8001/stream/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+AS+Tarnaveni+107.1+FM&background=random&color=fff&size=128",Radio AS Tarnaveni 107.1 FM
+http://195.225.143.222:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Aquila&background=random&color=fff&size=128",Radio Aquila
 https://s10.webradio-hosting.com/proxy/schrteam/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Arad+99,1+FM&background=random&color=fff&size=128",Radio Arad 99,1 FM
@@ -423,8 +427,6 @@ http://musictown.crazydesign.biz:8000/;
 https://live.radiomynele.ro:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Nebunya+Manele&background=random&color=fff&size=128",Radio Nebunya Manele
 https://ssl.radionebunya.ro/7575/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Nova22&background=random&color=fff&size=128",Radio Nova22
-https://s2.myradiostream.com:4520/listen.m4a/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+OM+Bun&background=random&color=fff&size=128",Radio OM Bun
 https://www.radioking.com/play/radio-om-bun1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
@@ -493,6 +495,8 @@ https://radio-romantic.ro/meniu/populara.php
 https://radio-romantic.ro/meniu/teatru.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romantic+Unda+Veselă&background=random&color=fff&size=128",Radio Romantic Unda Veselă
 https://radio-romantic.ro/meniu/umor.php/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+România+3+Net&background=random&color=fff&size=128",Radio România 3 Net
+http://media.3netmedia.ro:8000/Live128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+România+Actualități&background=random&color=fff&size=128",Radio România Actualități
 https://stream4.srr.ro:8443/romania-actualitati
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+România+Brașov&background=random&color=fff&size=128",Radio România Brașov
@@ -691,8 +695,6 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+The+Fusion&background=random&color=fff&size=128",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Social+FM+96.9&background=random&color=fff&size=128",Social FM 96.9
-https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SpaceFM+Retro&background=random&color=fff&size=128",SpaceFM Retro
