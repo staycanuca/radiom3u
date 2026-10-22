@@ -159,8 +159,6 @@ https://live.kissfm.ro/favoritesbyandreeaberghea
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Kolozsvári+Rádió+Románia&background=random&color=fff&size=128",Kolozsvári Rádió Románia
 http://89.238.227.6:8386/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Korona+Rádió&background=random&color=fff&size=128",Korona Rádió
-https://s7.citrus3.com:8022/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Lounge+Avenue&background=random&color=fff&size=128",Lounge Avenue
 https://arlandria.go.ro:7443/lounge
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=MB+Music+Radio&background=random&color=fff&size=128",MB Music Radio
@@ -431,6 +429,8 @@ https://ssl.radionebunya.ro/7575/stream
 https://www.radioking.com/play/radio-om-bun1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oastea+Domnului&background=random&color=fff&size=128",Radio Oastea Domnului
 http://86.123.160.19:8000/;;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oldies+Romania&background=random&color=fff&size=128",Radio Oldies Romania
+https://live.radiooldies.ro:10888/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Oltenia+102.9+FM&background=random&color=fff&size=128",Radio Oltenia 102.9 FM
 https://stream4.srr.ro:8443/radio-oltenia
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Orion+91.7+FM&background=random&color=fff&size=128",Radio Orion 91.7 FM
@@ -695,6 +695,8 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+The+Fusion&background=random&color=fff&size=128",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Social+FM+96.9&background=random&color=fff&size=128",Social FM 96.9
+https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SpaceFM+Retro&background=random&color=fff&size=128",SpaceFM Retro
