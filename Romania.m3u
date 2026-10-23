@@ -321,10 +321,6 @@ https://mars.streamerr.co/8152/stream
 http://86.122.50.130:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doina+FM+94.7&background=random&color=fff&size=128",Radio Doina FM 94.7
 https://live.radiodoina.ro/radiodoina.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Live&background=random&color=fff&size=128",Radio Domeldo Live
-https://radiodomeldo.ro/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Movie&background=random&color=fff&size=128",Radio Domeldo Movie
-https://radiodomeldo.ro/movie
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dor&background=random&color=fff&size=128",Radio Dor
 http://zuicast.digitalag.ro:9420/dor
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doxologia&background=random&color=fff&size=128",Radio Doxologia
@@ -537,6 +533,8 @@ http://asculta.radiotaraf.ro:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terra&background=random&color=fff&size=128",Radio Terra
