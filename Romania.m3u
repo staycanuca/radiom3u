@@ -533,8 +533,6 @@ http://asculta.radiotaraf.ro:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terra&background=random&color=fff&size=128",Radio Terra
@@ -617,8 +615,6 @@ http://asculta.radioxnet.ro:8888/;
 http://zuicast.digitalag.ro:9420/zu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zalău&background=random&color=fff&size=128",Radio Zalău
 https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zen&background=random&color=fff&size=128",Radio Zen
-https://streaming.shoutcast.com/radiozen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+la+Negru&background=random&color=fff&size=128",Radio la Negru
 https://securestreams.autopo.st:2489/negru.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RadioTimiBanat+Eurodisco&background=random&color=fff&size=128",RadioTimiBanat Eurodisco
