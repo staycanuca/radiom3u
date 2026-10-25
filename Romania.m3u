@@ -439,8 +439,6 @@ http://live.radiopetrecaretzu.ro:8383/;
 https://ssl.radios.show/8142/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Popular+România&background=random&color=fff&size=128",Radio Popular România
 https://livessl.radiopopular.ro:7777/live
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Manele&background=random&color=fff&size=128",Radio Pro Manele
-https://live.radiopromanele.com/8000/stream;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Mix&background=random&color=fff&size=128",Radio Pro Mix
 https://ssl.omegahost.ro:8102/;stream.nsv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Pro+Music+90s&background=random&color=fff&size=128",Radio Pro Music 90s
@@ -689,8 +687,6 @@ https://web.smartradio.ro:8443/smartstreet
 https://web.smartradio.ro:8443/smartsunsetbulevard
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+The+Fusion&background=random&color=fff&size=128",Smart The Fusion
 https://web.smartradio.ro:8443/smartfusion
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Social+FM+96.9&background=random&color=fff&size=128",Social FM 96.9
-https://www.socialfm.ro/stream.php
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Space+FM+Dance&background=random&color=fff&size=128",Space FM Dance
 https://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=SpaceFM+Retro&background=random&color=fff&size=128",SpaceFM Retro
