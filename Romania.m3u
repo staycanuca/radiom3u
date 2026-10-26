@@ -321,6 +321,10 @@ https://mars.streamerr.co/8152/stream
 http://86.122.50.130:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doina+FM+94.7&background=random&color=fff&size=128",Radio Doina FM 94.7
 https://live.radiodoina.ro/radiodoina.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Live&background=random&color=fff&size=128",Radio Domeldo Live
+https://radiodomeldo.ro/live
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Movie&background=random&color=fff&size=128",Radio Domeldo Movie
+https://radiodomeldo.ro/movie
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dor&background=random&color=fff&size=128",Radio Dor
 http://zuicast.digitalag.ro:9420/dor
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doxologia&background=random&color=fff&size=128",Radio Doxologia
@@ -368,7 +372,7 @@ https://s9.webradio-hosting.com/proxy/rgmrock/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Soft&background=random&color=fff&size=128",Radio GMusic Soft
 https://s9.webradio-hosting.com/proxy/rgmsoft/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+GMusic+Trap&background=random&color=fff&size=128",Radio GMusic Trap
-https://s9.webradio-hosting.com/proxy/rgmtrap/stream
+https://s9.webradio-hosting.com/proxy/rgmtrap/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Galaxy+100.6+FM&background=random&color=fff&size=128",Radio Galaxy 100.6 FM
 http://185.128.240.236:8000/galaxy
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Gangsta+Dance&background=random&color=fff&size=128",Radio Gangsta Dance
