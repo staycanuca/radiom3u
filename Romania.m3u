@@ -43,6 +43,8 @@ https://edge126.rcs-rds.ro/profm/chillfm.mp3
 https://mscp5.gazduireradio.ro:1270/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=City+Rádió&background=random&color=fff&size=128",City Rádió
 https://mscp1.gazduireradio.ro/cityradio
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=ClubMix+Radio&background=random&color=fff&size=128",ClubMix Radio
+https://live.mikeriverra.com:9999/320mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Cross+One+Radio&background=random&color=fff&size=128",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DJ+Radio+Romania&background=random&color=fff&size=128",DJ Radio Romania
@@ -459,6 +461,8 @@ https://stream.clever-host.ro/8008/stream
 http://5.2.168.107:8000/live.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Renașterea&background=random&color=fff&size=128",Radio Renașterea
 https://cast1.asurahosting.com/proxy/arhiepis/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romance+21&background=random&color=fff&size=128",Radio Romance 21
+https://stream.rcast.net/200392
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romania+Junior&background=random&color=fff&size=128",Radio Romania Junior
 http://89.238.227.6:8036/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Romania+Muzical+97.6+FM&background=random&color=fff&size=128",Radio Romania Muzical 97.6 FM
@@ -529,6 +533,8 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+100%+RO&background=random&color=fff&size=128",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Dance&background=random&color=fff&size=128",Radio Tequila Dance
+https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
