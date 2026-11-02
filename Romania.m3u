@@ -29,8 +29,6 @@ http://stream2.srr.ro:8210/;
 https://s5.radio.co/s0a66e1ff2/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bucovina+FM&background=random&color=fff&size=128",Bucovina FM
 https://cloud.radiosonicpanel.ro/8032/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Buzz+FM+87.9&background=random&color=fff&size=128",Buzz FM 87.9
-https://radio.sonicpanel.ro:8034/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Dance&background=random&color=fff&size=128",Capital FM Dance
 http://stream.capitalfm.ro:8020/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Capital+FM+Etno&background=random&color=fff&size=128",Capital FM Etno
@@ -43,8 +41,6 @@ https://edge126.rcs-rds.ro/profm/chillfm.mp3
 https://mscp5.gazduireradio.ro:1270/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=City+Rádió&background=random&color=fff&size=128",City Rádió
 https://mscp1.gazduireradio.ro/cityradio
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=ClubMix+Radio&background=random&color=fff&size=128",ClubMix Radio
-https://live.mikeriverra.com:9999/320mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Cross+One+Radio&background=random&color=fff&size=128",Cross One Radio
 https://lb01.bpstream.com:8630/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DJ+Radio+Romania&background=random&color=fff&size=128",DJ Radio Romania
@@ -59,6 +55,8 @@ https://edge126.rcs-rds.ro/digifm/digi24fm.mp3
 https://edge76.rcs-rds.ro/digifm/digifm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Disco+Mix&background=random&color=fff&size=128",Disco Mix
 https://play.discomix.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dream+FM+92.2&background=random&color=fff&size=128",Dream FM 92.2
+http://dreamfm.dtech.ro:9220/dreamfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DuxRadio&background=random&color=fff&size=128",DuxRadio
 https://radio.duxradio.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+90.4+FM&background=random&color=fff&size=128",EBS 90.4 FM
@@ -77,6 +75,8 @@ https://astreaming.edi.ro:8443/EuropaFM_aac
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Manele&background=random&color=fff&size=128",FM Radio Manele - Manele
+https://ssl.servereradio.ro/8054/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
