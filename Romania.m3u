@@ -185,8 +185,6 @@ https://live.gofm.ro:2000/stream/MARLENERADIO
 https://stream4.srr.ro:8443/radio-tgmures-mag
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Metronom+FM&background=random&color=fff&size=128",Metronom FM
 http://metronom-fm.ro:8000/stream.ogg
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mood+On+Music+#Deep&background=random&color=fff&size=128",Mood On Music #Deep
-https://ec2.yesstreaming.net:1810/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Muscel+FM+94.1&background=random&color=fff&size=128",Muscel FM 94.1
 http://188.27.135.199:8000/muscelfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Mária+Rádió+Erdély&background=random&color=fff&size=128",Mária Rádió Erdély
@@ -269,8 +267,6 @@ https://radioarad.arad1.ro:8443/radio-arad
 https://stream4.srr.ro:8443/arad-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Armonia&background=random&color=fff&size=128",Radio Armonia
 https://video.bluespot.ro/stream
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Balada+Bistrita+FM+89.3&background=random&color=fff&size=128",Radio Balada Bistrita FM 89.3
-http://94.52.142.229:85/broadwave.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Banat+Link+93.3+FM&background=random&color=fff&size=128",Radio Banat Link 93.3 FM
 https://banatlink.go.ro:8080
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Bandit&background=random&color=fff&size=128",Radio Bandit
@@ -535,6 +531,8 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+100%+RO&background=random&color=fff&size=128",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Dance&background=random&color=fff&size=128",Radio Tequila Dance
+https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
@@ -627,8 +625,6 @@ https://s43.myradiostream.com:24977/listen
 https://securestreams.autopo.st:2489/negru.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RadioTimiBanat+Eurodisco&background=random&color=fff&size=128",RadioTimiBanat Eurodisco
 https://streaming12.elitecomunicacion.es:8102/stream2
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Retro+Radio&background=random&color=fff&size=128",Retro Radio
-https://www.radioretro.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+80s+&+90s&background=random&color=fff&size=128",Rock 80s & 90s
 https://live.kissfm.ro/rock.8090
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Rock+FM+Ballads&background=random&color=fff&size=128",Rock FM Ballads
