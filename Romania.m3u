@@ -73,12 +73,16 @@ https://stream.zeno.fm/ehbuv5erws8uv
 https://efm.radioca.st/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Erdélyi+Magyar+Rádió&background=random&color=fff&size=128",Erdélyi Magyar Rádió
 https://adas.erdelyimagyarradio.eu:8443/emr
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Euronews+Radio+Romania+107.3&background=random&color=fff&size=128",Euronews Radio Romania 107.3
+https://live.euronewsradio.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Europa+FM&background=random&color=fff&size=128",Europa FM
 https://astreaming.edi.ro:8443/EuropaFM_aac
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Eveniment+FM+103.2&background=random&color=fff&size=128",Eveniment FM 103.2
 https://live.gofm.ro:2000/stream/eveniment
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Extravaganza+Radio&background=random&color=fff&size=128",Extravaganza Radio
 https://s3.radio.co/s1492c0564/listen
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FM+Radio+Manele+-+Petrecere&background=random&color=fff&size=128",FM Radio Manele - Petrecere
+https://ssl.servereradio.ro/8123/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=FocsNews+Radio&background=random&color=fff&size=128",FocsNews Radio
 https://hello.citrus3.com:2020/stream/focsnews
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Focus+FM&background=random&color=fff&size=128",Focus FM
@@ -664,7 +668,7 @@ https://stream.sepsiradio.ro:8001/SepsiRadio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Shuffle+FM&background=random&color=fff&size=128",Shuffle FM
 https://bluz.ro/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Sky+FM+101.1&background=random&color=fff&size=128",Sky FM 101.1
-http://89.43.138.116:8000/radiosky.mp3
+http://89.43.138.116:8000/radiosky.mp3/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+'N'+Roll&background=random&color=fff&size=128",Smart 'N' Roll
 https://web.smartradio.ro:8443/smartnroll
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Smart+AltRo&background=random&color=fff&size=128",Smart AltRo
