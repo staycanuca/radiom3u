@@ -15,8 +15,6 @@ https://altfm.faur.cc/alt_fm_128
 https://s3.myradiostream.com/7022/listen.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Banat+FM+101.2&background=random&color=fff&size=128",Banat FM 101.2
 https://cast.banatfm.ro/listen/banat_fm/live.aacp
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Barikada+Radio+Station&background=random&color=fff&size=128",Barikada Radio Station
-https://live.radiobarikada.ro:8000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Big+FM&background=random&color=fff&size=128",Big FM
 http://82.208.143.10:8000/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Bistrita+FM+92.6&background=random&color=fff&size=128",Bistrita FM 92.6
@@ -51,16 +49,18 @@ https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3
 https://edge126.rcs-rds.ro/profm/dancefm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dark+Edge+Radio&background=random&color=fff&size=128",Dark Edge Radio
 https://stream.darkedge.ro:8002/stream/4/
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Digi+24+FM+103.8&background=random&color=fff&size=128",Digi 24 FM 103.8
-https://edge126.rcs-rds.ro/digifm/digi24fm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Digi+FM+97.9&background=random&color=fff&size=128",Digi FM 97.9
 https://edge76.rcs-rds.ro/digifm/digifm.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Digi24FM&background=random&color=fff&size=128",Digi24FM
+https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Disco+Mix&background=random&color=fff&size=128",Disco Mix
 https://play.discomix.ro/8002/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Dream+FM+92.2&background=random&color=fff&size=128",Dream FM 92.2
 http://dreamfm.dtech.ro:9220/dreamfm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=DuxRadio&background=random&color=fff&size=128",DuxRadio
 https://radio.duxradio.ro/8002/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=EBS+90.4+FM&background=random&color=fff&size=128",EBS 90.4 FM
+https://ebsradio.ddns.net/listen/live/live128.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Ercis+FM&background=random&color=fff&size=128",Ercis FM
 https://stream.zeno.fm/ehbuv5erws8uv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Erdely+FM&background=random&color=fff&size=128",Erdely FM
@@ -551,8 +551,6 @@ http://asculta.radiotaraf.ro:7100/;
 https://romaneasca.radiotequila.ro/8989/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
-https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terra&background=random&color=fff&size=128",Radio Terra
