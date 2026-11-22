@@ -401,8 +401,6 @@ http://asculta.ascultatare.ro:8034/;
 http://89.39.189.24:7070/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+KPTV&background=random&color=fff&size=128",Radio KPTV
 https://de1.streamingpulse.com/ssl/KPTV
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kibuț&background=random&color=fff&size=128",Radio Kibuț
-https://www.radioking.com/play/radiokibut
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Kiss+Mangalia+FM+(Pyranda)&background=random&color=fff&size=128",Radio Kiss Mangalia FM (Pyranda)
 http://live.adradio.ro:8894/128/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Liberty+Dance&background=random&color=fff&size=128",Radio Liberty Dance
@@ -417,6 +415,8 @@ http://oldies.radioliberty.ro:7790/;
 http://populara.radioliberty.ro:7780/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Liberty+Slagare&background=random&color=fff&size=128",Radio Liberty Slagare
 http://slagare.radioliberty.ro:7050/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Lipova&background=random&color=fff&size=128",Radio Lipova
+http://asculta.radiolipova.ro:1717/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+M+Plus+95.7&background=random&color=fff&size=128",Radio M Plus 95.7
 https://s4.ssl-stream.com/listen/radio_mplus_fm/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+MELODIA&background=random&color=fff&size=128",Radio MELODIA
@@ -569,6 +569,8 @@ http://89.238.227.6:8350/%7CRadio
 https://live.radiotop.ro/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Traditional+Manele&background=random&color=fff&size=128",Radio Traditional Manele
 https://radio.ascultatare.ro/7000/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Transilvania+106.1+FM&background=random&color=fff&size=128",Radio Transilvania 106.1 FM
+https://stream2.radiotransilvania.ro/BaiaMare
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Transilvania+94.1+FM&background=random&color=fff&size=128",Radio Transilvania 94.1 FM
 https://stream2.radiotransilvania.ro/Bistrita
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Transilvania+94.5+FM&background=random&color=fff&size=128",Radio Transilvania 94.5 FM
