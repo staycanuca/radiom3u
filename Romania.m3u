@@ -273,6 +273,8 @@ https://radioarad.arad1.ro:8443/radio-arad
 https://stream4.srr.ro:8443/arad-fm
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Armonia&background=random&color=fff&size=128",Radio Armonia
 https://video.bluespot.ro/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Balada+Bistrita+FM+89.3&background=random&color=fff&size=128",Radio Balada Bistrita FM 89.3
+http://94.52.142.229:85/broadwave.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Banat+Link+93.3+FM&background=random&color=fff&size=128",Radio Banat Link 93.3 FM
 https://banatlink.go.ro:8080
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Bandit&background=random&color=fff&size=128",Radio Bandit
@@ -306,7 +308,7 @@ https://audio-edge-3mayu.fra.h.radiomast.io/71b8dd5d-b3a4-4ee9-a477-1a585779899c
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Crazy+Romania&background=random&color=fff&size=128",Radio Crazy Romania
 https://razvcarp1.radioca.st/;/;stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Cuvântul+Vieții&background=random&color=fff&size=128",Radio Cuvântul Vieții
-https://ssl.asculta.live:8288/stream/;
+https://c32.radioboss.fm:8908/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+DA&background=random&color=fff&size=128",Radio DA
 https://stream.radiojar.com/du8khw2d2wzuv
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+DEEA&background=random&color=fff&size=128",Radio DEEA
@@ -327,8 +329,6 @@ https://live.radiodoina.ro/radiodoina.mp3
 https://radiodomeldo.ro/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Domeldo+Movie&background=random&color=fff&size=128",Radio Domeldo Movie
 https://radiodomeldo.ro/movie
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Dor&background=random&color=fff&size=128",Radio Dor
-http://zuicast.digitalag.ro:9420/dor
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Doxologia&background=random&color=fff&size=128",Radio Doxologia
 https://rlive.doxologia.ro/stream.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+EMM+(eMaramureş)&background=random&color=fff&size=128",Radio EMM (eMaramureş)
@@ -341,8 +341,6 @@ https://c40.radioboss.fm:8170/eldad.aac
 https://sonicssl.namehost.ro/8790/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FIX+99.8&background=random&color=fff&size=128",Radio FIX 99.8
 http://89.137.76.149:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Fain+&+Simplu&background=random&color=fff&size=128",Radio Fain & Simplu
-http://zuicast.digitalag.ro:9420/fainsisimplu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+FanFM-RO&background=random&color=fff&size=128",Radio FanFM-RO
 https://asculta.ascultatare.ro:8585/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Filadelfia&background=random&color=fff&size=128",Radio Filadelfia
@@ -631,8 +629,6 @@ https://tg.rve.ro/rvetg.mp3
 https://s101.radiolize.com/radio/8050/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+X+Net+Manele&background=random&color=fff&size=128",Radio X Net Manele
 http://asculta.radioxnet.ro:8888/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+ZU+89.0+FM&background=random&color=fff&size=128",Radio ZU 89.0 FM
-http://zuicast.digitalag.ro:9420/zu
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zalău&background=random&color=fff&size=128",Radio Zalău
 https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Zen&background=random&color=fff&size=128",Radio Zen
