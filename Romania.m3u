@@ -635,6 +635,8 @@ https://radiozero.ro/listen/muzica-de-la-zero/radio.mp3
 https://s43.myradiostream.com:24977/listen
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+la+Negru&background=random&color=fff&size=128",Radio la Negru
 https://securestreams.autopo.st:2489/negru.mp3
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio-Fantasy&background=random&color=fff&size=128",Radio-Fantasy
+https://s10.webradio-hosting.com/proxy/constant/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=RadioTimiBanat+Eurodisco&background=random&color=fff&size=128",RadioTimiBanat Eurodisco
 https://streaming12.elitecomunicacion.es:8102/stream2
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Retro+Radio&background=random&color=fff&size=128",Retro Radio
