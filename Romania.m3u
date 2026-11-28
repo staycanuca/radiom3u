@@ -4,7 +4,7 @@ https://c22.radioboss.fm:8700/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=90s+3NeRgY&background=random&color=fff&size=128",90s 3NeRgY
 https://s11.ssl-stream.com/ssl/90s_energy?mp=/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=98.2+Nova+FM&background=random&color=fff&size=128",98.2 Nova FM
-http://86.125.106.34:8000/live
+http://86.125.106.34:8000/live/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Agnus+Radio&background=random&color=fff&size=128",Agnus Radio
 http://radio2.tirek.hu:8000/agnusradio
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Alpimur+Radio&background=random&color=fff&size=128",Alpimur Radio
@@ -197,8 +197,6 @@ https://stream.mariaradio.ro/MRE
 https://nfm-s1.bit-ns.cloud/stream1
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=National+FM+91.7+FM&background=random&color=fff&size=128",National FM 91.7 FM
 https://asculta.nationalfm.ro:9102/nfm2
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=News+FM+Pascani&background=random&color=fff&size=128",News FM Pascani
-https://stream2.rcast.net/64531
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Next+Radio&background=random&color=fff&size=128",Next Radio
 https://stream.nextradio.live/listen/nextradio/NextHD
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Nostalgia+Radio+90.2+FM&background=random&color=fff&size=128",Nostalgia Radio 90.2 FM
@@ -421,6 +419,8 @@ https://radio.sonicpanel.ro:8106/stream
 https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Master&background=random&color=fff&size=128",Radio Master
 https://mscp2.gazduireradio.ro:8080/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Medias+725&background=random&color=fff&size=128",Radio Medias 725
+https://mediasfm.eushells.ro:8082/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT&background=random&color=fff&size=128",Radio Mega-HiT
 https://live.radiomegahit.eu:8080/stream/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Mega-HiT+Lounge&background=random&color=fff&size=128",Radio Mega-HiT Lounge
@@ -549,8 +549,12 @@ http://asculta.radiotaraf.com:7100/;
 http://asculta.radiotaraf.ro:7100/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+100%+RO&background=random&color=fff&size=128",Radio Tequila 100% RO
 https://romaneasca.radiotequila.ro/8989/stream
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Dance&background=random&color=fff&size=128",Radio Tequila Dance
+https://ssl.hostclean.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Hip-Hop&background=random&color=fff&size=128",Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
+#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Manele&background=random&color=fff&size=128",Radio Tequila Manele
+https://ssl.servereradio.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Tequila+Petrecere&background=random&color=fff&size=128",Radio Tequila Petrecere
 https://petrecere.radiotequila.ro/7000/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Terra&background=random&color=fff&size=128",Radio Terra
@@ -560,7 +564,7 @@ https://e20.yesstreaming.net:7410/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+TimiBanat+Populară&background=random&color=fff&size=128",Radio TimiBanat Populară
 https://streaming12.elitecomunicacion.es:8096/stream3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Timișoara+AM+630&background=random&color=fff&size=128",Radio Timișoara AM 630
-http://89.238.227.6:8350/%7CRadio
+http://89.238.227.6:8350/%7CRadio/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Top+104&background=random&color=fff&size=128",Radio Top 104
 https://live.radiotop.ro/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Traditional+Manele&background=random&color=fff&size=128",Radio Traditional Manele
@@ -591,8 +595,6 @@ https://live.aftech.ro/listen/radio_turda/radio.mp3
 https://stream.radiotargujiu.ro/stream
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+USV&background=random&color=fff&size=128",Radio USV
 http://live2.usv.ro:8000/;
-#EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unique&background=random&color=fff&size=128",Radio Unique
-https://listen.radiounique.ro/8106/live
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Unu&background=random&color=fff&size=128",Radio Unu
 http://162.244.80.37:7560/;
 #EXTINF:-1 group-title="Romania" tvg-logo="https://ui-avatars.com/api/?name=Radio+Vacanța+-+Fresh&background=random&color=fff&size=128",Radio Vacanța - Fresh
